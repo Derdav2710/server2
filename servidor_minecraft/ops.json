@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "181d9735-836b-33ff-aba8-9e4dca5e4532",
+    "name": "Derdav",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
