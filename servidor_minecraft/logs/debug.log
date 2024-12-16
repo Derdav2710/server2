@@ -576,3 +576,7 @@ java.lang.NullPointerException: null
 [16Dec2024 18:00:46.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
 [16Dec2024 18:04:33.466] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Dec2024 18:04:33.475] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 18:09:33.394] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 18:09:33.402] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 18:14:33.361] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 18:14:33.370] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
