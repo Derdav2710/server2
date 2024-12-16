@@ -605,3 +605,11 @@ java.lang.NullPointerException: null
 [16Dec2024 17:20:41.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was shot by Skeleton
 [16Dec2024 17:21:33.795] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [16Dec2024 17:21:33.808] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 17:26:32.969] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 17:26:32.974] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[16Dec2024 17:29:44.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Best Friends Forever]
+[16Dec2024 17:30:34.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Sweet Dreams]
+[16Dec2024 17:31:00.413] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Acquire Hardware]
+[16Dec2024 17:31:12.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Isn't It Iron Pick]
+[16Dec2024 17:31:33.233] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[16Dec2024 17:31:33.242] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
