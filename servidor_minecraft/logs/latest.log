@@ -70,3 +70,5 @@ java.lang.NullPointerException: null
 [16Dec2024 17:55:20.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [16Dec2024 17:55:58.127] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-364, y=65, z=-280} BlockPos{x=-363, y=63, z=-280}
 [16Dec2024 17:55:58.193] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-364, y=65, z=-280} BlockPos{x=-363, y=63, z=-280}
+[16Dec2024 18:00:46.267] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[16Dec2024 18:00:46.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
