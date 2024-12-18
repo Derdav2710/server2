@@ -220,6 +220,7 @@
       "cooked_porkchop": "2024-12-18 03:11:51 +0000",
       "chicken": "2024-12-18 03:08:33 +0000",
       "cooked_mutton": "2024-12-18 05:53:16 +0000",
+      "cooked_beef": "2024-12-18 06:28:46 +0000",
       "porkchop": "2024-12-18 03:19:26 +0000"
     },
     "done": false
@@ -245,6 +246,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-18 06:32:44 +0000"
     },
     "done": true
   },
@@ -673,6 +680,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-18 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-18 06:32:44 +0000"
     },
     "done": true
   },
@@ -1150,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-12-18 06:32:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 03:13:11 +0000"
@@ -1159,6 +1178,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-18 03:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-18 06:32:44 +0000"
     },
     "done": true
   },
