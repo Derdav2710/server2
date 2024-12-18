@@ -1348,3 +1348,8 @@ java.lang.NullPointerException: null
 [18Dec2024 06:59:54.391] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [18Dec2024 07:04:54.351] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [18Dec2024 07:04:54.353] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Dec2024 07:06:58.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [A Strange Grave Dust]
+[18Dec2024 07:09:54.336] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Dec2024 07:09:54.339] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Dec2024 07:14:53.816] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Dec2024 07:14:53.821] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
