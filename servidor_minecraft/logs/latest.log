@@ -79,3 +79,25 @@ java.lang.NullPointerException: null
 [18Dec2024 03:03:57.992] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:59069] logged in with entity id 731 at (-290.05168734420624, 66.0, 100.3649797447635)
 [18Dec2024 03:03:58.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
 [18Dec2024 03:03:58.066] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[18Dec2024 03:04:19.177] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@39cb89fd
+[18Dec2024 03:04:19.194] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:49315] logged in with entity id 798 at (-701.5451136706016, 62.073263371166156, 17.88346278564267)
+[18Dec2024 03:04:19.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[18Dec2024 03:04:19.247] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID 4c842237-9ad7-4f61-8bf9-2f140fb2a45c. Existing minecraft:boat#799, new: minecraft:boat#800
+[18Dec2024 03:04:19.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Mysterious Gift]
+[18Dec2024 03:04:19.278] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[18Dec2024 03:04:26.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Easter Egg Searcher]
+[18Dec2024 03:06:04.546] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Timed out
+[18Dec2024 03:06:04.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[18Dec2024 03:06:04.643] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[18Dec2024 03:06:17.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Stone Age]
+[18Dec2024 03:08:33.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Knowledge of Death]
+[18Dec2024 03:08:33.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Easter Food]
+[18Dec2024 03:09:33.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7652ac74
+[18Dec2024 03:09:33.509] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:60287] logged in with entity id 2407 at (-771.2686824995777, 68.0, 87.4691336483457)
+[18Dec2024 03:09:33.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[18Dec2024 03:09:33.539] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[18Dec2024 03:10:58.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Acquire Hardware]
+[18Dec2024 03:11:44.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Suit Up]
+[18Dec2024 03:11:44.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Isn't It Iron Pick]
+[18Dec2024 03:12:17.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[18Dec2024 03:13:14.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Sweet Dreams]
