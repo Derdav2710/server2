@@ -1245,3 +1245,13 @@ java.lang.NullPointerException: null
 [18Dec2024 03:19:53.993] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [18Dec2024 03:19:53.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [18Dec2024 03:20:15.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [The Parrots and the Bats]
+[18Dec2024 03:24:54.067] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:24:54.070] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Dec2024 03:25:12.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [A Seedy Place]
+[18Dec2024 03:25:41.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Monster Hunter]
+[18Dec2024 03:27:09.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Derdav
+[18Dec2024 03:27:09.058] [Server thread/DEBUG] [tombstone/]: A new grave of the player thevip_1 was created at position [x:-305, y:66, z:117, dim:minecraft:overworld]
+[18Dec2024 03:27:09.060] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[18Dec2024 03:27:47.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [A Seedy Place]
+[18Dec2024 03:29:53.937] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:29:53.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
