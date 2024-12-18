@@ -125,3 +125,23 @@ java.lang.NullPointerException: null
 [18Dec2024 06:32:43.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Fishy Business]
 [18Dec2024 06:55:21.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [The Parrots and the Bats]
 [18Dec2024 07:06:58.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [A Strange Grave Dust]
+[18Dec2024 07:27:32.788] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
+[18Dec2024 07:27:32.789] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
+[18Dec2024 07:27:32.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[18Dec2024 07:27:32.838] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[18Dec2024 07:27:44.246] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@224e6a66
+[18Dec2024 07:27:44.252] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:33325] logged in with entity id 37475 at (-263.3636451269364, 64.25220334025373, 173.63059440774384)
+[18Dec2024 07:27:44.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[18Dec2024 07:27:44.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Mysterious Gift]
+[18Dec2024 07:27:44.316] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[18Dec2024 07:28:24.992] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -1.0732081704350094,-2.698465276337217,9.650348982491892
+[18Dec2024 07:28:25.191] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
+[18Dec2024 07:28:25.192] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
+[18Dec2024 07:28:25.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[18Dec2024 07:28:25.237] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[18Dec2024 07:28:29.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5a99ee34
+[18Dec2024 07:28:29.953] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:53551] logged in with entity id 37628 at (-257.7205830992492, 65.02442408821369, 289.8210571127148)
+[18Dec2024 07:28:29.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[18Dec2024 07:28:30.001] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[18Dec2024 07:29:26.788] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[18Dec2024 07:29:26.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
