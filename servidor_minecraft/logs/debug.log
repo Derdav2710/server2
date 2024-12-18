@@ -1229,3 +1229,19 @@ java.lang.NullPointerException: null
 [18Dec2024 03:11:44.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Isn't It Iron Pick]
 [18Dec2024 03:12:17.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
 [18Dec2024 03:13:14.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Sweet Dreams]
+[18Dec2024 03:14:26.354] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-248, y=69, z=134} BlockPos{x=-230, y=66, z=107}
+[18Dec2024 03:14:28.762] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-248, y=69, z=134} BlockPos{x=-229, y=68, z=109}
+[18Dec2024 03:14:29.162] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-248, y=69, z=134} BlockPos{x=-231, y=66, z=107}
+[18Dec2024 03:14:54.212] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:14:54.220] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Dec2024 03:15:03.940] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-248, y=69, z=134} BlockPos{x=-233, y=65, z=98}
+[18Dec2024 03:15:06.416] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-248, y=69, z=134} BlockPos{x=-233, y=65, z=98}
+[18Dec2024 03:15:12.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[18Dec2024 03:16:12.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Derdav
+[18Dec2024 03:16:12.359] [Server thread/DEBUG] [tombstone/]: A new grave of the player thevip_1 was created at position [x:-284, y:70, z:83, dim:minecraft:overworld]
+[18Dec2024 03:16:12.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Your First Grave]
+[18Dec2024 03:16:12.363] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[18Dec2024 03:16:14.181] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -3.9906122644220545,-0.5009966402674735,9.525427720149992
+[18Dec2024 03:19:53.993] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[18Dec2024 03:19:53.998] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[18Dec2024 03:20:15.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [The Parrots and the Bats]
