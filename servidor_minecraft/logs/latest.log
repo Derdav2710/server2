@@ -62,3 +62,44 @@ java.lang.NullPointerException: null
 [19Dec2024 05:09:47.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
 [19Dec2024 05:09:47.921] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
 [19Dec2024 05:16:10.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Ashes 'n Bones]
+[19Dec2024 05:29:49.329] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Timed out
+[19Dec2024 05:29:49.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[19Dec2024 05:29:49.389] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[19Dec2024 05:29:58.054] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4aa36484
+[19Dec2024 05:29:58.088] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:47667] logged in with entity id 2868 at (-130.8991465900108, 58.0, 111.07929989850403)
+[19Dec2024 05:29:58.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[19Dec2024 05:29:58.182] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[19Dec2024 05:30:57.227] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: You logged in from another location
+[19Dec2024 05:30:57.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[19Dec2024 05:30:57.237] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:39393] logged in with entity id 2972 at (-122.77534508074565, 55.166109260938214, 112.5073039895269)
+[19Dec2024 05:30:57.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[19Dec2024 05:30:57.316] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[19Dec2024 05:31:22.203] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 7.454627131172316,-2.252203340253729,-6.383918892853956
+[19Dec2024 05:31:35.595] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -9.597652757030119,-1.0784000015258783,-3.044975040653881
+[19Dec2024 05:31:57.427] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Timed out
+[19Dec2024 05:31:57.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[19Dec2024 05:32:02.035] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8a81896
+[19Dec2024 05:32:02.041] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:57945] logged in with entity id 3072 at (-141.60982544803474, 52.0, 96.84755804136073)
+[19Dec2024 05:32:02.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[19Dec2024 05:32:02.102] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[19Dec2024 05:32:49.510] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -3.9968521134308332,-1.0,-9.218807973137416
+[19Dec2024 05:33:55.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has reached the goal [Strong or Careful]
+[19Dec2024 05:33:55.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Zombie
+[19Dec2024 05:33:55.813] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[19Dec2024 05:33:58.927] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[19Dec2024 05:33:58.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[19Dec2024 05:34:05.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@11f1db41
+[19Dec2024 05:34:05.550] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:35719] logged in with entity id 3344 at (-195.63294016829101, 23.0, 59.0969289322271)
+[19Dec2024 05:34:05.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[19Dec2024 05:34:05.608] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[19Dec2024 05:36:27.981] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -8.012903314154414,-0.2538907259487644,6.121315109919934
+[19Dec2024 05:36:34.228] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
+[19Dec2024 05:36:34.228] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
+[19Dec2024 05:36:34.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[19Dec2024 05:36:34.277] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[19Dec2024 05:36:44.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a5619ab
+[19Dec2024 05:36:44.389] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:40887] logged in with entity id 3651 at (-282.42857559391587, 67.24918707874468, 100.34367342492531)
+[19Dec2024 05:36:44.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[19Dec2024 05:36:44.450] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[19Dec2024 05:36:59.112] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 6.1691749531000255,2.6668000063657757,-8.234619666901821
+[19Dec2024 05:37:05.348] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 8.645413519724116,-2.0554624345250403,-5.203542767724784
