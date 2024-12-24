@@ -202,3 +202,7 @@ java.lang.NullPointerException: null
 [24Dec2024 03:51:14.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
 [24Dec2024 03:53:55.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
 [24Dec2024 03:57:07.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[24Dec2024 03:57:54.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[24Dec2024 04:01:00.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Ambush]
+[24Dec2024 04:02:17.579] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -10.019696821897924,-0.2902792520400368,-0.23576202836079574
+[24Dec2024 04:03:39.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
