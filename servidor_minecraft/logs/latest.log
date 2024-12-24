@@ -206,3 +206,13 @@ java.lang.NullPointerException: null
 [24Dec2024 04:01:00.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Ambush]
 [24Dec2024 04:02:17.579] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -10.019696821897924,-0.2902792520400368,-0.23576202836079574
 [24Dec2024 04:03:39.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 04:09:55.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Hot Stuff]
+[24Dec2024 04:12:10.639] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=2378, y=64, z=1619} BlockPos{x=2376, y=62, z=1618}
+[24Dec2024 04:12:17.433] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -0.46811864498249633,-0.001335979112141672,-10.116431940159373
+[24Dec2024 04:13:48.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 04:13:56.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> VENGA
+[24Dec2024 04:14:00.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no puedo
+[24Dec2024 04:14:08.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ES UN MOMENTO
+[24Dec2024 04:14:15.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> adentro de la casa
+[24Dec2024 04:14:58.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que es
+[24Dec2024 04:16:28.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Enchanter]
