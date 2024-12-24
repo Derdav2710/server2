@@ -198,3 +198,7 @@ java.lang.NullPointerException: null
 [24Dec2024 03:44:32.300] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-232, y=6, z=80} BlockPos{x=-232, y=6, z=81}
 [24Dec2024 03:44:37.728] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-232, y=5, z=80} BlockPos{x=-232, y=6, z=81}
 [24Dec2024 03:45:10.078] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-226, y=7, z=80} BlockPos{x=-226, y=6, z=81}
+[24Dec2024 03:48:03.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=13, y=65, z=1170} BlockPos{x=14, y=63, z=1170}
+[24Dec2024 03:51:14.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 03:53:55.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 03:57:07.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
