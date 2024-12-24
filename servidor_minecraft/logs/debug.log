@@ -1336,3 +1336,13 @@ java.lang.NullPointerException: null
 [24Dec2024 04:24:58.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has reached the goal [Here They Come]
 [24Dec2024 04:27:16.091] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 04:27:16.094] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 04:31:03.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[24Dec2024 04:32:16.159] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:32:16.162] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 04:34:48.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzz
+[24Dec2024 04:34:51.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzz
+[24Dec2024 04:34:59.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[24Dec2024 04:36:59.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sugar Cane'/55314, l='ServerLevel[world]', x=-318.97, y=63.35, z=187.36]
+[24Dec2024 04:37:14.704] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/55369, l='ServerLevel[world]', x=-214.13, y=66.21, z=84.57]
+[24Dec2024 04:37:16.371] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:37:16.374] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
