@@ -1,174 +1,73 @@
-[19Dec2024 05:08:56.637] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[19Dec2024 05:08:56.643] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[19Dec2024 05:08:57.081] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[19Dec2024 05:08:57.279] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[19Dec2024 05:08:58.126] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[19Dec2024 05:08:58.353] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[19Dec2024 05:08:58.362] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[19Dec2024 05:08:58.368] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[19Dec2024 05:08:58.375] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[19Dec2024 05:09:00.781] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[19Dec2024 05:09:10.907] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[19Dec2024 05:09:10.910] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[19Dec2024 05:09:12.422] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Dec2024 05:09:12.517] [main/INFO] [journeymap/]: Initializing Packet Registries
-[19Dec2024 05:09:12.708] [modloading-worker-1/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[19Dec2024 05:09:12.724] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[19Dec2024 05:09:13.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 6.8.17 Target: 6.9.6
-[19Dec2024 05:09:13.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Dec2024 05:09:13.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[19Dec2024 05:09:13.328] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[19Dec2024 05:09:13.445] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[24Dec2024 00:35:58.329] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[24Dec2024 00:35:58.335] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[24Dec2024 00:35:59.889] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[24Dec2024 00:36:00.168] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[24Dec2024 00:36:02.512] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24Dec2024 00:36:02.739] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24Dec2024 00:36:02.771] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24Dec2024 00:36:02.788] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24Dec2024 00:36:02.806] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[24Dec2024 00:36:07.011] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[24Dec2024 00:36:26.271] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[24Dec2024 00:36:26.305] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[24Dec2024 00:36:29.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[24Dec2024 00:36:29.813] [main/INFO] [journeymap/]: Initializing Packet Registries
+[24Dec2024 00:36:30.411] [modloading-worker-0/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[24Dec2024 00:36:30.487] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[24Dec2024 00:36:31.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 6.8.17 Target: 6.9.6
+[24Dec2024 00:36:31.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Dec2024 00:36:32.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[24Dec2024 00:36:32.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[24Dec2024 00:36:32.256] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[19Dec2024 05:09:17.620] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Dec2024 05:09:18.531] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19Dec2024 05:09:18.533] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19Dec2024 05:09:18.540] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19Dec2024 05:09:18.541] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19Dec2024 05:09:18.543] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19Dec2024 05:09:18.545] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[19Dec2024 05:09:18.550] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[19Dec2024 05:09:18.556] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.5p6.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, jei-1.16.5-7.7.1.1004.jar, tombstone-1.16.5-6.8.17.jar
-[19Dec2024 05:09:21.945] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[19Dec2024 05:09:22.873] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1079 advancements
-[19Dec2024 05:09:26.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[19Dec2024 05:09:26.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Dec2024 05:09:26.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Dec2024 05:09:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Dec2024 05:09:26.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Dec2024 05:09:26.955] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[19Dec2024 05:09:27.195] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Dec2024 05:09:27.195] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Dec2024 05:09:27.196] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Dec2024 05:09:27.197] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Dec2024 05:09:27.240] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[19Dec2024 05:09:27.255] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[19Dec2024 05:09:27.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Dec2024 05:09:27.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Dec2024 05:09:29.626] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19Dec2024 05:09:29.627] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19Dec2024 05:09:29.628] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19Dec2024 05:09:29.632] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19Dec2024 05:09:29.871] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19Dec2024 05:09:30.411] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 37%
-[19Dec2024 05:09:31.187] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3317 ms
-[19Dec2024 05:09:31.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.968s)! For help, type "help"
-[19Dec2024 05:09:47.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@66c82198
-[19Dec2024 05:09:47.430] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:50573] logged in with entity id 306 at (-247.33316415725102, 67.0, 73.47919488393494)
-[19Dec2024 05:09:47.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:09:47.921] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:16:10.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Ashes 'n Bones]
-[19Dec2024 05:29:49.329] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Timed out
-[19Dec2024 05:29:49.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:29:49.389] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[19Dec2024 05:29:58.054] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4aa36484
-[19Dec2024 05:29:58.088] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:47667] logged in with entity id 2868 at (-130.8991465900108, 58.0, 111.07929989850403)
-[19Dec2024 05:29:58.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:29:58.182] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:30:57.227] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: You logged in from another location
-[19Dec2024 05:30:57.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:30:57.237] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:39393] logged in with entity id 2972 at (-122.77534508074565, 55.166109260938214, 112.5073039895269)
-[19Dec2024 05:30:57.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:30:57.316] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:31:22.203] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 7.454627131172316,-2.252203340253729,-6.383918892853956
-[19Dec2024 05:31:35.595] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -9.597652757030119,-1.0784000015258783,-3.044975040653881
-[19Dec2024 05:31:57.427] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Timed out
-[19Dec2024 05:31:57.428] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:32:02.035] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8a81896
-[19Dec2024 05:32:02.041] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:57945] logged in with entity id 3072 at (-141.60982544803474, 52.0, 96.84755804136073)
-[19Dec2024 05:32:02.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:32:02.102] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:32:49.510] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -3.9968521134308332,-1.0,-9.218807973137416
-[19Dec2024 05:33:55.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has reached the goal [Strong or Careful]
-[19Dec2024 05:33:55.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Zombie
-[19Dec2024 05:33:55.813] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
-[19Dec2024 05:33:58.927] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[19Dec2024 05:33:58.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:34:05.537] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@11f1db41
-[19Dec2024 05:34:05.550] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:35719] logged in with entity id 3344 at (-195.63294016829101, 23.0, 59.0969289322271)
-[19Dec2024 05:34:05.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:34:05.608] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:36:27.981] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -8.012903314154414,-0.2538907259487644,6.121315109919934
-[19Dec2024 05:36:34.228] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 05:36:34.228] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 05:36:34.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:36:34.277] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[19Dec2024 05:36:44.383] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7a5619ab
-[19Dec2024 05:36:44.389] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:40887] logged in with entity id 3651 at (-282.42857559391587, 67.24918707874468, 100.34367342492531)
-[19Dec2024 05:36:44.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:36:44.450] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:36:59.112] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 6.1691749531000255,2.6668000063657757,-8.234619666901821
-[19Dec2024 05:37:05.348] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 8.645413519724116,-2.0554624345250403,-5.203542767724784
-[19Dec2024 05:47:03.415] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 6.359999313719129,-0.9893499858739716,7.868028099554486
-[19Dec2024 05:47:19.733] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 05:47:19.778] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 05:47:19.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:47:30.683] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7550f6e3
-[19Dec2024 05:47:30.689] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:37307] logged in with entity id 5320 at (-265.06923915780226, 71.02442408821369, 45.96079790340253)
-[19Dec2024 05:47:30.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:47:30.737] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:47:44.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Best Friends Forever]
-[19Dec2024 05:49:00.479] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[19Dec2024 05:49:00.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:49:07.435] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@13131116[id=<null>,name=thevip_1,properties={},legacy=false] (/127.87.138.222:40631) lost connection: Disconnected
-[19Dec2024 05:49:11.687] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6aa4a3e5
-[19Dec2024 05:49:11.693] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:37383] logged in with entity id 5524 at (-273.10980863689906, 70.0, 74.86277969816973)
-[19Dec2024 05:49:11.696] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:49:11.737] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:49:33.183] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 05:49:33.231] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 05:49:33.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:49:40.084] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7383ca1f
-[19Dec2024 05:49:40.093] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:34331] logged in with entity id 5587 at (-302.68844274445786, 66.17675927506424, 140.80874083318676)
-[19Dec2024 05:49:40.099] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:49:40.128] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:50:02.729] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[19Dec2024 05:50:02.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:50:06.933] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1594d16d
-[19Dec2024 05:50:06.940] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:53447] logged in with entity id 5627 at (-300.06707879786484, 64.0, 142.9244953000201)
-[19Dec2024 05:50:06.958] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:50:07.010] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:50:28.437] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 9.63941298369059,2.249187078744683,-2.2077895376308447
-[19Dec2024 05:50:35.579] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 05:50:35.629] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 05:50:35.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:51:03.478] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6066ab16
-[19Dec2024 05:51:03.484] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:50697] logged in with entity id 5716 at (-265.9068861914056, 68.00133597911214, 144.11451641092862)
-[19Dec2024 05:51:03.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:51:03.524] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 05:51:31.794] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 7.5334665270579535,-1.0,-6.874390212710523
-[19Dec2024 05:51:35.202] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 8.38094656253395,-1.504799122994072,-5.6450709485015835
-[19Dec2024 05:54:15.186] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -7.278406162590841,0.2538907259487644,6.988162891786615
-[19Dec2024 05:54:52.512] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -8.066452009302964,0.9969837384909539,-6.02976786251844
-[19Dec2024 05:59:29.680] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 05:59:29.731] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 05:59:29.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 05:59:36.632] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@e3ed99
-[19Dec2024 05:59:36.638] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:49897] logged in with entity id 6988 at (-302.27296196171403, 65.00133597911214, 317.8599244622969)
-[19Dec2024 05:59:36.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 05:59:36.677] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 06:03:12.629] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 06:03:12.679] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 06:03:12.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 06:03:29.029] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7cd89402
-[19Dec2024 06:03:29.035] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:35505] logged in with entity id 7637 at (-289.5273897121618, 67.1212968405392, 112.56560871576829)
-[19Dec2024 06:03:29.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 06:03:29.102] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 06:03:42.765] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 3.8986591820246304,0.41999998688697815,-9.715772470306376
-[19Dec2024 06:03:56.496] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 6.083992257073248,2.0,-7.948981489617992
-[19Dec2024 06:04:08.698] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 9.104740766040663,-0.20326439933128881,-4.826662208807434
-[19Dec2024 06:04:18.814] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 5.151397510603033,-0.4938648978937863,-8.869466887165302
-[19Dec2024 06:04:22.833] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 was kicked for floating too long!
-[19Dec2024 06:04:22.835] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Flying is not enabled on this server
-[19Dec2024 06:04:22.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[19Dec2024 06:04:22.896] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
-[19Dec2024 06:04:35.082] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3bed6c61
-[19Dec2024 06:04:35.102] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:57085] logged in with entity id 7783 at (-257.6723704095518, 68.7531999805212, 63.49832358114868)
-[19Dec2024 06:04:35.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[19Dec2024 06:04:35.153] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[19Dec2024 06:05:20.929] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[19Dec2024 06:05:20.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[24Dec2024 00:36:38.378] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Dec2024 00:36:41.122] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24Dec2024 00:36:41.130] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24Dec2024 00:36:41.134] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24Dec2024 00:36:41.142] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[24Dec2024 00:36:41.151] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[24Dec2024 00:36:41.154] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[24Dec2024 00:36:41.157] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[24Dec2024 00:36:41.180] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.5p6.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, jei-1.16.5-7.7.1.1004.jar, tombstone-1.16.5-6.8.17.jar
+[24Dec2024 00:36:46.361] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[24Dec2024 00:36:48.526] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1079 advancements
+[24Dec2024 00:36:55.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[24Dec2024 00:36:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Dec2024 00:36:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Dec2024 00:36:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Dec2024 00:36:55.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Dec2024 00:36:55.781] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[24Dec2024 00:36:56.216] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Dec2024 00:36:56.217] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Dec2024 00:36:56.218] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Dec2024 00:36:56.219] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Dec2024 00:36:56.334] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Dec2024 00:36:56.344] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[24Dec2024 00:36:56.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Dec2024 00:36:57.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Dec2024 00:37:03.131] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.132] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.133] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.134] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.135] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.137] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.142] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.148] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.149] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.151] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.155] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:03.429] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:04.267] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[24Dec2024 00:37:04.731] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 64%
+[24Dec2024 00:37:05.138] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7211 ms
+[24Dec2024 00:37:05.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.832s)! For help, type "help"
+[24Dec2024 00:37:07.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[24Dec2024 00:37:16.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48e88577
+[24Dec2024 00:37:16.605] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:33757] logged in with entity id 317 at (232.1398282326982, 78.0, 612.390342692892)
+[24Dec2024 00:37:16.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[24Dec2024 00:37:17.630] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[24Dec2024 00:37:31.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8613ms or 172 ticks behind
