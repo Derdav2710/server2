@@ -73,3 +73,16 @@ java.lang.NullPointerException: null
 [24Dec2024 00:37:31.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8613ms or 172 ticks behind
 [24Dec2024 00:46:01.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
 [24Dec2024 00:49:06.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Ashes 'n Bones]
+[24Dec2024 01:09:33.440] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bf129ee
+[24Dec2024 01:09:33.449] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:48457] logged in with entity id 5907 at (-244.9900418765071, 67.5625, 73.27674509922092)
+[24Dec2024 01:09:33.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[24Dec2024 01:09:33.510] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[24Dec2024 01:10:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> voy s ir a buscar arena
+[24Dec2024 01:10:32.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ok
+[24Dec2024 01:10:38.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> A mimir
+[24Dec2024 01:10:43.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzz
+[24Dec2024 01:10:45.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzz
+[24Dec2024 01:10:47.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzz
+[24Dec2024 01:10:47.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> z
+[24Dec2024 01:10:50.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzzz
+[24Dec2024 01:11:23.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Take Aim]
