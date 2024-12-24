@@ -369,6 +369,7 @@
       "beef": "2024-12-18 07:05:36 +0000",
       "porkchop": "2024-12-18 03:19:26 +0000",
       "cooked_cod": "2024-12-18 07:19:51 +0000",
+      "cooked_chicken": "2024-12-24 02:58:13 +0000",
       "cooked_salmon": "2024-12-18 07:15:20 +0000"
     },
     "done": false
@@ -460,6 +461,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-18 03:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
     },
     "done": true
   },
@@ -638,6 +645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-18 03:06:17 +0000"
@@ -731,6 +744,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-18 03:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
     },
     "done": true
   },
@@ -890,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-18 03:05:03 +0000"
@@ -921,6 +946,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-24 01:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
     },
     "done": true
   },
@@ -1542,6 +1573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 03:05:03 +0000"
@@ -1605,6 +1642,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-18 06:56:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
     },
     "done": true
   },
@@ -1902,6 +1945,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-18 06:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-24 03:01:27 +0000"
     },
     "done": true
   },

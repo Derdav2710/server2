@@ -1107,3 +1107,11 @@ java.lang.NullPointerException: null
 [24Dec2024 02:52:16.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 02:52:16.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Dec2024 02:56:16.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesitamos diamante
+[24Dec2024 02:57:16.189] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:57:16.193] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 02:57:17.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Vanishing]
+[24Dec2024 02:57:27.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> WTF
+[24Dec2024 02:57:32.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> magia
+[24Dec2024 03:02:16.240] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:02:16.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:02:28.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
