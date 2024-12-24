@@ -185,3 +185,16 @@ java.lang.NullPointerException: null
 [24Dec2024 03:34:27.596] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=7, z=109}
 [24Dec2024 03:34:56.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Ice Bucket Challenge]
 [24Dec2024 03:34:58.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=7, z=110} BlockPos{x=-242, y=6, z=109}
+[24Dec2024 03:38:36.071] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[24Dec2024 03:38:36.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[24Dec2024 03:38:42.231] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@180c0e6c
+[24Dec2024 03:38:42.238] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:51189] logged in with entity id 30579 at (-247.1078079012114, 6.0, 109.3000000119209)
+[24Dec2024 03:38:42.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[24Dec2024 03:38:42.309] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[24Dec2024 03:41:42.191] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-243, y=7, z=110}
+[24Dec2024 03:41:58.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 03:43:31.553] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-244, y=7, z=80} BlockPos{x=-244, y=6, z=81}
+[24Dec2024 03:44:19.746] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-235, y=7, z=80} BlockPos{x=-235, y=6, z=81}
+[24Dec2024 03:44:32.300] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-232, y=6, z=80} BlockPos{x=-232, y=6, z=81}
+[24Dec2024 03:44:37.728] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-232, y=5, z=80} BlockPos{x=-232, y=6, z=81}
+[24Dec2024 03:45:10.078] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-226, y=7, z=80} BlockPos{x=-226, y=6, z=81}

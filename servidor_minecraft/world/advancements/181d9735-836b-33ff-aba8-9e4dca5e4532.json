@@ -1620,6 +1620,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-16 17:56:33 +0000",
+      "minecraft:mountains": "2024-12-24 03:46:31 +0000",
       "minecraft:taiga": "2024-12-15 21:53:59 +0000",
       "minecraft:giant_tree_taiga": "2024-12-16 17:54:32 +0000",
       "minecraft:birch_forest": "2024-12-18 01:45:28 +0000",
@@ -1641,6 +1642,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-16 17:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 03:38:42 +0000"
     },
     "done": true
   },
