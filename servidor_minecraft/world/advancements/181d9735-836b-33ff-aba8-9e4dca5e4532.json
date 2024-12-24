@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-24 02:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-16 17:17:45 +0000"
@@ -384,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-24 02:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-15 22:12:29 +0000"
@@ -662,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-24 02:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-24 01:23:36 +0000"
@@ -677,6 +695,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-16 17:21:08 +0000",
+      "minecraft:spider": "2024-12-24 02:50:42 +0000",
       "minecraft:creeper": "2024-12-16 17:40:43 +0000",
       "minecraft:slime": "2024-12-18 01:43:21 +0000",
       "minecraft:enderman": "2024-12-18 01:32:05 +0000",
@@ -907,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-24 02:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2024-12-16 17:28:03 +0000"
@@ -1084,6 +1109,12 @@
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2024-12-18 03:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-24 02:52:03 +0000"
     },
     "done": true
   },

@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-24 02:50:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-18 03:54:00 +0000"
@@ -344,6 +350,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 03:10:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 02:47:43 +0000"
     },
     "done": true
   },
@@ -1974,6 +1986,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-24 02:39:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-12-24 02:50:24 +0000"
     },
     "done": true
   },

@@ -1100,3 +1100,10 @@ java.lang.NullPointerException: null
 [24Dec2024 02:45:49.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> agame tp
 [24Dec2024 02:45:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no
 [24Dec2024 02:46:07.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[24Dec2024 02:47:16.079] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:47:16.083] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 02:49:19.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ups...
+[24Dec2024 02:49:23.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> Q
+[24Dec2024 02:52:16.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 02:52:16.247] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 02:56:16.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesitamos diamante
