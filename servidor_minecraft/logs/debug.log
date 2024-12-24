@@ -1141,3 +1141,19 @@ java.lang.NullPointerException: null
 [24Dec2024 03:27:12.580] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-249, y=7, z=95}
 [24Dec2024 03:27:16.176] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 03:27:16.180] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:29:15.079] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=7, z=109} BlockPos{x=-224, y=7, z=109}
+[24Dec2024 03:29:18.772] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=6, z=109} BlockPos{x=-224, y=7, z=109}
+[24Dec2024 03:30:38.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[24Dec2024 03:30:48.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> donde esta la obsidiana??
+[24Dec2024 03:31:21.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Diamonds!]
+[24Dec2024 03:32:16.122] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:32:16.125] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:33:09.174] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-242, y=7, z=109}
+[24Dec2024 03:34:25.389] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=6, z=109}
+[24Dec2024 03:34:25.890] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=6, z=109}
+[24Dec2024 03:34:26.223] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=6, z=109}
+[24Dec2024 03:34:27.596] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=7, z=109}
+[24Dec2024 03:34:56.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Ice Bucket Challenge]
+[24Dec2024 03:34:58.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=7, z=110} BlockPos{x=-242, y=6, z=109}
+[24Dec2024 03:37:16.158] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:37:16.161] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
