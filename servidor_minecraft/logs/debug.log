@@ -1115,3 +1115,29 @@ java.lang.NullPointerException: null
 [24Dec2024 03:02:16.240] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [24Dec2024 03:02:16.244] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [24Dec2024 03:02:28.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[24Dec2024 03:07:16.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:07:16.182] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:07:17.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ENCONTRE ORO
+[24Dec2024 03:07:23.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ok
+[24Dec2024 03:08:00.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Diamonds!]
+[24Dec2024 03:09:22.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> tiene altorchas??
+[24Dec2024 03:09:29.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> si
+[24Dec2024 03:09:35.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> cuantas??
+[24Dec2024 03:09:39.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> 36
+[24Dec2024 03:09:44.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> me
+[24Dec2024 03:12:16.074] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:12:16.077] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:15:37.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 tried to swim in lava
+[24Dec2024 03:15:37.530] [Server thread/DEBUG] [tombstone/]: A new grave of the player thevip_1 was created at position [x:-169, y:11, z:-2, dim:minecraft:overworld]
+[24Dec2024 03:15:37.534] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[24Dec2024 03:15:48.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ._.
+[24Dec2024 03:17:16.418] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:17:16.422] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:22:16.152] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:22:16.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[24Dec2024 03:26:25.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[24Dec2024 03:26:26.023] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-243, y=6, z=108}
+[24Dec2024 03:27:11.576] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-249, y=7, z=95}
+[24Dec2024 03:27:12.580] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-249, y=7, z=95}
+[24Dec2024 03:27:16.176] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[24Dec2024 03:27:16.180] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
