@@ -121,3 +121,22 @@ java.lang.NullPointerException: null
 [24Dec2024 02:14:37.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Your First Grave]
 [24Dec2024 02:14:37.360] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [24Dec2024 02:14:49.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 02:23:31.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necestio madera de roble la normal
+[24Dec2024 02:24:51.502] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-243, y=70, z=86}
+[24Dec2024 02:24:51.635] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-242, y=70, z=86}
+[24Dec2024 02:25:02.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzz
+[24Dec2024 02:25:04.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzz
+[24Dec2024 02:25:05.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzz
+[24Dec2024 02:25:06.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzz
+[24Dec2024 02:25:07.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzz
+[24Dec2024 02:25:09.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[24Dec2024 02:25:26.138] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-240, y=69, z=96}
+[24Dec2024 02:25:33.404] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-240, y=69, z=96}
+[24Dec2024 02:25:40.393] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-241, y=70, z=98}
+[24Dec2024 02:25:40.759] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-240, y=69, z=96}
+[24Dec2024 02:25:41.884] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[24Dec2024 02:25:41.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[24Dec2024 02:25:45.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b2af09e
+[24Dec2024 02:25:45.860] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:39731] logged in with entity id 18345 at (-239.69999998807907, 67.0, 93.96196825419663)
+[24Dec2024 02:25:45.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[24Dec2024 02:25:45.913] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
