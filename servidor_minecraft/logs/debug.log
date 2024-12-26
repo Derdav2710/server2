@@ -888,3 +888,12 @@ java.lang.NullPointerException: null
 [26Dec2024 04:09:32.077] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -6.0123152645949745,2.0,-8.013346971606381
 [26Dec2024 04:13:19.399] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-232, y=7, z=81}
 [26Dec2024 04:13:24.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-232, y=7, z=81}
+[26Dec2024 04:14:31.753] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:14:31.759] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[26Dec2024 04:14:31.779] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! 10.34254024144684,-1.7012968536522237,0.2787704316804138
+[26Dec2024 04:16:34.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Enderman
+[26Dec2024 04:16:34.287] [Server thread/DEBUG] [tombstone/]: A new grave of the player thevip_1 was created at position [x:-286, y:66, z:117, dim:minecraft:overworld]
+[26Dec2024 04:16:34.297] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[26Dec2024 04:19:28.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> tiene cuero?
+[26Dec2024 04:19:31.016] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[26Dec2024 04:19:31.019] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
