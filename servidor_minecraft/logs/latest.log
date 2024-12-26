@@ -1,266 +1,68 @@
-[24Dec2024 00:35:58.329] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[24Dec2024 00:35:58.335] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[24Dec2024 00:35:59.889] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[24Dec2024 00:36:00.168] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[24Dec2024 00:36:02.512] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Dec2024 00:36:02.739] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Dec2024 00:36:02.771] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Dec2024 00:36:02.788] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Dec2024 00:36:02.806] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[24Dec2024 00:36:07.011] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[24Dec2024 00:36:26.271] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[24Dec2024 00:36:26.305] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[24Dec2024 00:36:29.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[24Dec2024 00:36:29.813] [main/INFO] [journeymap/]: Initializing Packet Registries
-[24Dec2024 00:36:30.411] [modloading-worker-0/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[24Dec2024 00:36:30.487] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[24Dec2024 00:36:31.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 6.8.17 Target: 6.9.6
-[24Dec2024 00:36:31.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[24Dec2024 00:36:32.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
-[24Dec2024 00:36:32.094] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[24Dec2024 00:36:32.256] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26Dec2024 03:43:25.093] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[26Dec2024 03:43:25.103] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[26Dec2024 03:43:26.632] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[26Dec2024 03:43:27.301] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/server2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[26Dec2024 03:43:29.725] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[26Dec2024 03:43:29.982] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[26Dec2024 03:43:30.015] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[26Dec2024 03:43:30.043] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[26Dec2024 03:43:30.094] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[26Dec2024 03:43:34.445] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[26Dec2024 03:43:54.059] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[26Dec2024 03:43:54.103] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[26Dec2024 03:43:56.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[26Dec2024 03:43:56.979] [main/INFO] [journeymap/]: Initializing Packet Registries
+[26Dec2024 03:43:57.163] [modloading-worker-1/INFO] [Waila/]: Registered plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[26Dec2024 03:43:57.217] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[26Dec2024 03:43:57.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 6.8.17 Target: 6.9.6
+[26Dec2024 03:43:57.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Dec2024 03:43:58.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 36.2.42 Target: null
+[26Dec2024 03:43:58.207] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[26Dec2024 03:43:58.354] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
-[24Dec2024 00:36:38.378] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[24Dec2024 00:36:41.122] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Dec2024 00:36:41.130] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Dec2024 00:36:41.134] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Dec2024 00:36:41.142] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[24Dec2024 00:36:41.151] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[24Dec2024 00:36:41.154] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[24Dec2024 00:36:41.157] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[24Dec2024 00:36:41.180] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.5p6.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, jei-1.16.5-7.7.1.1004.jar, tombstone-1.16.5-6.8.17.jar
-[24Dec2024 00:36:46.361] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[24Dec2024 00:36:48.526] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1079 advancements
-[24Dec2024 00:36:55.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[24Dec2024 00:36:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[24Dec2024 00:36:55.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[24Dec2024 00:36:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[24Dec2024 00:36:55.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[24Dec2024 00:36:55.781] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[24Dec2024 00:36:56.216] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[24Dec2024 00:36:56.217] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[24Dec2024 00:36:56.218] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[24Dec2024 00:36:56.219] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[24Dec2024 00:36:56.334] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Dec2024 00:36:56.344] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[24Dec2024 00:36:56.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[24Dec2024 00:36:57.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[24Dec2024 00:37:03.131] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.132] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.133] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.134] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.135] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.137] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.142] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.148] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.149] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.151] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.155] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:03.429] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:04.267] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[24Dec2024 00:37:04.731] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 64%
-[24Dec2024 00:37:05.138] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7211 ms
-[24Dec2024 00:37:05.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.832s)! For help, type "help"
-[24Dec2024 00:37:07.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[24Dec2024 00:37:16.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@48e88577
-[24Dec2024 00:37:16.605] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:33757] logged in with entity id 317 at (232.1398282326982, 78.0, 612.390342692892)
-[24Dec2024 00:37:16.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
-[24Dec2024 00:37:17.630] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
-[24Dec2024 00:37:31.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8613ms or 172 ticks behind
-[24Dec2024 00:46:01.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
-[24Dec2024 00:49:06.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Ashes 'n Bones]
-[24Dec2024 01:09:33.440] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1bf129ee
-[24Dec2024 01:09:33.449] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:48457] logged in with entity id 5907 at (-244.9900418765071, 67.5625, 73.27674509922092)
-[24Dec2024 01:09:33.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[24Dec2024 01:09:33.510] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[24Dec2024 01:10:26.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> voy s ir a buscar arena
-[24Dec2024 01:10:32.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ok
-[24Dec2024 01:10:38.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> A mimir
-[24Dec2024 01:10:43.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzz
-[24Dec2024 01:10:45.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:10:47.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzz
-[24Dec2024 01:10:47.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> z
-[24Dec2024 01:10:50.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:11:23.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Take Aim]
-[24Dec2024 01:22:22.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzz
-[24Dec2024 01:33:37.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:33:40.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:34:17.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> vea la casa
-[24Dec2024 01:35:14.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> cm dijo messi en los marcatoons
-[24Dec2024 01:35:26.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> Eta tremenda
-[24Dec2024 01:35:31.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ok
-[24Dec2024 01:38:35.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> che tenes cubos
-[24Dec2024 01:40:04.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesito comidilla
-[24Dec2024 01:40:09.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> UwU
-[24Dec2024 01:41:29.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesitoooo comidaaa!!!
-[24Dec2024 01:41:51.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> traeme boludo para no perder tiempo
-[24Dec2024 01:42:52.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> Que hace??
-[24Dec2024 01:43:14.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> buscar area
-[24Dec2024 01:43:20.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> arena
-[24Dec2024 01:43:31.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que mela si necesitamos mas despues busca
-[24Dec2024 01:43:44.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> Necesito que la queme y quite la tierra del piso de abajo
-[24Dec2024 01:43:50.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> hay palas en los cofres
-[24Dec2024 01:43:57.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ns
-[24Dec2024 01:44:45.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> no no hay
-[24Dec2024 01:44:51.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzz
-[24Dec2024 01:44:53.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> busque
-[24Dec2024 01:44:53.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:44:55.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzz
-[24Dec2024 01:44:56.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:44:58.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzzzzzzz
-[24Dec2024 01:45:00.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
-[24Dec2024 01:54:58.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 02:04:44.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 02:09:05.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> listo
-[24Dec2024 02:14:37.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [Strong or Careful]
-[24Dec2024 02:14:37.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav fell from a high place
-[24Dec2024 02:14:37.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Your First Grave]
-[24Dec2024 02:14:37.360] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
-[24Dec2024 02:14:49.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 02:23:31.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necestio madera de roble la normal
-[24Dec2024 02:24:51.502] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-243, y=70, z=86}
-[24Dec2024 02:24:51.635] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-242, y=70, z=86}
-[24Dec2024 02:25:02.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzz
-[24Dec2024 02:25:04.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzz
-[24Dec2024 02:25:05.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzz
-[24Dec2024 02:25:06.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzz
-[24Dec2024 02:25:07.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzz
-[24Dec2024 02:25:09.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 02:25:26.138] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-240, y=69, z=96}
-[24Dec2024 02:25:33.404] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-240, y=69, z=96}
-[24Dec2024 02:25:40.393] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-241, y=70, z=98}
-[24Dec2024 02:25:40.759] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-313, y=72, z=94} BlockPos{x=-240, y=69, z=96}
-[24Dec2024 02:25:41.884] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[24Dec2024 02:25:41.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[24Dec2024 02:25:45.846] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5b2af09e
-[24Dec2024 02:25:45.860] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:39731] logged in with entity id 18345 at (-239.69999998807907, 67.0, 93.96196825419663)
-[24Dec2024 02:25:45.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[24Dec2024 02:25:45.913] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[24Dec2024 02:35:12.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzz
-[24Dec2024 02:35:27.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 02:43:00.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> tape ese hueco
-[24Dec2024 02:43:32.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no tengo tierra
-[24Dec2024 02:44:30.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> tiene pico??
-[24Dec2024 02:44:44.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> casi se acaba
-[24Dec2024 02:44:49.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no importa
-[24Dec2024 02:45:44.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> La ptm
-[24Dec2024 02:45:49.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> agame tp
-[24Dec2024 02:45:57.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no
-[24Dec2024 02:46:07.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
-[24Dec2024 02:49:19.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ups...
-[24Dec2024 02:49:23.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> Q
-[24Dec2024 02:56:16.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesitamos diamante
-[24Dec2024 02:57:17.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Vanishing]
-[24Dec2024 02:57:27.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> WTF
-[24Dec2024 02:57:32.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> magia
-[24Dec2024 03:02:28.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
-[24Dec2024 03:07:17.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ENCONTRE ORO
-[24Dec2024 03:07:23.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ok
-[24Dec2024 03:08:00.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Diamonds!]
-[24Dec2024 03:09:22.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> tiene altorchas??
-[24Dec2024 03:09:29.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> si
-[24Dec2024 03:09:35.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> cuantas??
-[24Dec2024 03:09:39.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> 36
-[24Dec2024 03:09:44.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> me
-[24Dec2024 03:15:37.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 tried to swim in lava
-[24Dec2024 03:15:37.534] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
-[24Dec2024 03:15:48.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ._.
-[24Dec2024 03:26:25.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
-[24Dec2024 03:26:26.023] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-243, y=6, z=108}
-[24Dec2024 03:27:11.576] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-249, y=7, z=95}
-[24Dec2024 03:27:12.580] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-236, y=14, z=32} BlockPos{x=-249, y=7, z=95}
-[24Dec2024 03:29:15.079] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=7, z=109} BlockPos{x=-224, y=7, z=109}
-[24Dec2024 03:29:18.772] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=6, z=109} BlockPos{x=-224, y=7, z=109}
-[24Dec2024 03:30:38.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
-[24Dec2024 03:30:48.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> donde esta la obsidiana??
-[24Dec2024 03:31:21.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Diamonds!]
-[24Dec2024 03:33:09.174] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-242, y=7, z=109}
-[24Dec2024 03:34:25.389] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=6, z=109}
-[24Dec2024 03:34:25.890] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=6, z=109}
-[24Dec2024 03:34:26.223] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=6, z=109}
-[24Dec2024 03:34:27.596] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-210, y=10, z=114} BlockPos{x=-224, y=7, z=109}
-[24Dec2024 03:34:56.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Ice Bucket Challenge]
-[24Dec2024 03:34:58.585] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-223, y=7, z=110} BlockPos{x=-242, y=6, z=109}
-[24Dec2024 03:38:36.071] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[24Dec2024 03:38:36.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
-[24Dec2024 03:38:42.231] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@180c0e6c
-[24Dec2024 03:38:42.238] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:51189] logged in with entity id 30579 at (-247.1078079012114, 6.0, 109.3000000119209)
-[24Dec2024 03:38:42.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
-[24Dec2024 03:38:42.309] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
-[24Dec2024 03:41:42.191] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-243, y=7, z=110}
-[24Dec2024 03:41:58.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 03:43:31.553] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-244, y=7, z=80} BlockPos{x=-244, y=6, z=81}
-[24Dec2024 03:44:19.746] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-235, y=7, z=80} BlockPos{x=-235, y=6, z=81}
-[24Dec2024 03:44:32.300] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-232, y=6, z=80} BlockPos{x=-232, y=6, z=81}
-[24Dec2024 03:44:37.728] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-232, y=5, z=80} BlockPos{x=-232, y=6, z=81}
-[24Dec2024 03:45:10.078] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-226, y=7, z=80} BlockPos{x=-226, y=6, z=81}
-[24Dec2024 03:48:03.432] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=13, y=65, z=1170} BlockPos{x=14, y=63, z=1170}
-[24Dec2024 03:51:14.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 03:53:55.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 03:57:07.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
-[24Dec2024 03:57:54.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
-[24Dec2024 04:01:00.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Ambush]
-[24Dec2024 04:02:17.579] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -10.019696821897924,-0.2902792520400368,-0.23576202836079574
-[24Dec2024 04:03:39.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 04:09:55.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Hot Stuff]
-[24Dec2024 04:12:10.639] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=2378, y=64, z=1619} BlockPos{x=2376, y=62, z=1618}
-[24Dec2024 04:12:17.433] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -0.46811864498249633,-0.001335979112141672,-10.116431940159373
-[24Dec2024 04:13:48.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 04:13:56.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> VENGA
-[24Dec2024 04:14:00.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no puedo
-[24Dec2024 04:14:08.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ES UN MOMENTO
-[24Dec2024 04:14:15.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> adentro de la casa
-[24Dec2024 04:14:58.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que es
-[24Dec2024 04:16:28.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Enchanter]
-[24Dec2024 04:19:53.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Enchanter]
-[24Dec2024 04:20:25.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> as cofres
-[24Dec2024 04:22:02.463] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-245, y=70, z=95}
-[24Dec2024 04:22:03.720] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-246, y=70, z=95}
-[24Dec2024 04:22:03.922] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-245, y=70, z=95}
-[24Dec2024 04:22:05.089] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-246, y=70, z=95}
-[24Dec2024 04:22:05.188] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-246, y=70, z=96}
-[24Dec2024 04:22:06.158] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-246, y=70, z=95}
-[24Dec2024 04:22:10.070] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-290, y=66, z=112} BlockPos{x=-249, y=70, z=112}
-[24Dec2024 04:23:51.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> 16 le sirven??
-[24Dec2024 04:23:58.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> y aga de dia
-[24Dec2024 04:24:02.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> si es para guardar cosas
-[24Dec2024 04:24:07.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
-[24Dec2024 04:24:15.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
-[24Dec2024 04:24:41.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> pongalos aki
-[24Dec2024 04:24:50.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Derdav
-[24Dec2024 04:24:50.406] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
-[24Dec2024 04:24:56.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> si
-[24Dec2024 04:24:58.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has reached the goal [Here They Come]
-[24Dec2024 04:31:03.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
-[24Dec2024 04:34:48.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzz
-[24Dec2024 04:34:51.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzzzzzzzz
-[24Dec2024 04:34:59.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
-[24Dec2024 04:36:59.126] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Sugar Cane'/55314, l='ServerLevel[world]', x=-318.97, y=63.35, z=187.36]
-[24Dec2024 04:37:14.704] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Spruce Log'/55369, l='ServerLevel[world]', x=-214.13, y=66.21, z=84.57]
-[24Dec2024 04:43:50.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Ice Bucket Challenge]
-[24Dec2024 04:43:59.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> venga
-[24Dec2024 04:44:08.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> donde esta}
-[24Dec2024 04:44:14.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> en la casa
-[24Dec2024 04:45:15.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> encontre abejas
-[24Dec2024 04:45:18.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ok
-[24Dec2024 04:46:23.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzz
-[24Dec2024 04:49:05.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> Deme el curo
-[24Dec2024 04:49:09.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> CUERO JAJA
-[24Dec2024 04:49:17.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ammmmmm
-[24Dec2024 04:49:21.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> Y la caña
-[24Dec2024 04:49:25.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ya hice los libros
-[24Dec2024 04:50:53.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> oiga no tiene uno de diamante pa hacerme un piko y ver q encantamiento sale
-[24Dec2024 04:50:58.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> si
-[24Dec2024 04:51:05.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> en los cofres
-[24Dec2024 04:51:10.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> giveme
-[24Dec2024 04:51:15.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ok
-[24Dec2024 04:51:34.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ishhh necesito niveles para tener fortuna 2
-[24Dec2024 04:52:23.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> me voyyy
-[24Dec2024 04:52:25.284] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
-[24Dec2024 04:52:25.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
-[24Dec2024 04:55:28.122] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
-[24Dec2024 04:55:28.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[26Dec2024 03:44:04.793] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Dec2024 03:44:06.793] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[26Dec2024 03:44:06.800] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[26Dec2024 03:44:06.804] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[26Dec2024 03:44:06.809] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[26Dec2024 03:44:06.813] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[26Dec2024 03:44:06.820] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[26Dec2024 03:44:06.824] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[26Dec2024 03:44:06.834] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.42-universal.jar, journeymap-1.16.5-5.8.5p6.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, jei-1.16.5-7.7.1.1004.jar, tombstone-1.16.5-6.8.17.jar
+[26Dec2024 03:44:11.313] [Worker-Main-2/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[26Dec2024 03:44:13.109] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1079 advancements
+[26Dec2024 03:44:18.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[26Dec2024 03:44:18.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Dec2024 03:44:18.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Dec2024 03:44:18.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Dec2024 03:44:19.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Dec2024 03:44:19.524] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[26Dec2024 03:44:19.925] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Dec2024 03:44:19.926] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Dec2024 03:44:19.926] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Dec2024 03:44:19.927] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Dec2024 03:44:19.994] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Dec2024 03:44:20.008] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[26Dec2024 03:44:20.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Dec2024 03:44:21.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Dec2024 03:44:24.795] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:24.796] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:24.797] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:24.798] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:24.798] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:24.799] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:24.800] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:25.110] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[26Dec2024 03:44:25.669] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 7%
+[26Dec2024 03:44:26.122] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 62%
+[26Dec2024 03:44:27.173] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5571 ms
+[26Dec2024 03:44:27.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.194s)! For help, type "help"
+[26Dec2024 03:44:30.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[26Dec2024 03:49:43.080] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1e9ba0ff
+[26Dec2024 03:49:43.129] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:53417] logged in with entity id 322 at (-228.3593246197887, 5.0, 78.77912838652824)
+[26Dec2024 03:49:43.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[26Dec2024 03:49:43.546] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
