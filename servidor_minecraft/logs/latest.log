@@ -71,3 +71,16 @@ java.lang.NullPointerException: null
 [26Dec2024 03:58:07.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
 [26Dec2024 03:58:08.082] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
 [26Dec2024 03:59:31.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[26Dec2024 04:03:34.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Zombie
+[26Dec2024 04:03:34.932] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[26Dec2024 04:03:45.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [The Most Useful Key]
+[26Dec2024 04:03:52.794] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [A Fast Comeback]
+[26Dec2024 04:04:09.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[26Dec2024 04:05:02.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Zombie
+[26Dec2024 04:05:02.398] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[26Dec2024 04:08:27.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Zombie
+[26Dec2024 04:08:27.197] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[26Dec2024 04:09:32.075] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 9.303254604282841,-0.25799910351527444,-4.100225399220761
+[26Dec2024 04:09:32.077] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -6.0123152645949745,2.0,-8.013346971606381
+[26Dec2024 04:13:19.399] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-232, y=7, z=81}
+[26Dec2024 04:13:24.851] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-232, y=7, z=81}
