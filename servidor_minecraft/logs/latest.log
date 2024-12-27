@@ -65,3 +65,7 @@ java.lang.NullPointerException: null
 [27Dec2024 00:12:29.155] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6179 ms
 [27Dec2024 00:12:29.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.630s)! For help, type "help"
 [27Dec2024 00:12:32.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[27Dec2024 00:24:43.160] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@53f224ab
+[27Dec2024 00:24:43.193] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:48861] logged in with entity id 286 at (-275.55893012023904, 92.0, 184.34816401458338)
+[27Dec2024 00:24:43.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[27Dec2024 00:24:43.598] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
