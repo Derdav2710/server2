@@ -868,3 +868,22 @@ java.lang.NullPointerException: null
 [29Dec2024 05:14:24.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> hace un rato habian 2 esquieletos en la granja pero no ha salido nd mas
 [29Dec2024 05:14:35.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
 [29Dec2024 05:14:49.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> con dos nos morimos de hambre
+[29Dec2024 05:15:31.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q paso con las ovejas???
+[29Dec2024 05:15:42.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no se
+[29Dec2024 05:16:14.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que ha hecho??
+[29Dec2024 05:16:20.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> nd
+[29Dec2024 05:16:24.986] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 05:16:24.990] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 05:16:25.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ._.
+[29Dec2024 05:16:28.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> casi q vengo entrando
+[29Dec2024 05:17:26.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ayude
+[29Dec2024 05:17:40.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> a q donde
+[29Dec2024 05:17:59.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ._.
+[29Dec2024 05:18:05.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> A aplanar
+[29Dec2024 05:21:24.938] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 05:21:24.942] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 05:21:24.959] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=68, z=112} BlockPos{x=-255, y=66, z=108}
+[29Dec2024 05:21:25.398] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=68, z=112} BlockPos{x=-255, y=66, z=107}
+[29Dec2024 05:21:25.787] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=68, z=112} BlockPos{x=-255, y=66, z=106}
+[29Dec2024 05:21:27.873] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=68, z=112} BlockPos{x=-256, y=64, z=107}
+[29Dec2024 05:22:58.515] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-257, y=65, z=107} BlockPos{x=-256, y=65, z=107}
