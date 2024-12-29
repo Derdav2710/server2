@@ -148,3 +148,10 @@ java.lang.NullPointerException: null
 [29Dec2024 05:43:36.989] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-284, y=76, z=99} BlockPos{x=-256, y=65, z=99}
 [29Dec2024 05:43:45.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que
 [29Dec2024 05:43:45.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> VENGA AL OTRO LADO
+[29Dec2024 05:46:32.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[29Dec2024 05:47:45.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[29Dec2024 05:51:34.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Gave 1 [Spawner] to Derdav]
+[29Dec2024 05:51:41.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[29Dec2024 05:53:33.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Gave 1 [Spawner] to Derdav]
+[29Dec2024 05:54:27.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[29Dec2024 05:54:38.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
