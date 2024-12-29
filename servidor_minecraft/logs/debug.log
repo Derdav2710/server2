@@ -887,3 +887,33 @@ java.lang.NullPointerException: null
 [29Dec2024 05:21:25.787] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=68, z=112} BlockPos{x=-255, y=66, z=106}
 [29Dec2024 05:21:27.873] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=68, z=112} BlockPos{x=-256, y=64, z=107}
 [29Dec2024 05:22:58.515] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-257, y=65, z=107} BlockPos{x=-256, y=65, z=107}
+[29Dec2024 05:25:47.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Enderman
+[29Dec2024 05:25:47.845] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-293, y:66, z:115, dim:minecraft:overworld]
+[29Dec2024 05:25:47.864] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[29Dec2024 05:25:55.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [Here They Come]
+[29Dec2024 05:26:24.770] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 05:26:24.776] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 05:27:16.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> donde tiene la esencia de no muerte
+[29Dec2024 05:27:26.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> con ayo
+[29Dec2024 05:27:30.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> demela
+[29Dec2024 05:27:38.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> estoy en los cofre
+[29Dec2024 05:27:47.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> y tengo dos pergaminos encantados
+[29Dec2024 05:29:29.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [A Small Cemetery]
+[29Dec2024 05:29:29.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Black or White]
+[29Dec2024 05:29:37.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> venga
+[29Dec2024 05:29:55.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> tengo cuero y caña
+[29Dec2024 05:30:03.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> vengaaa
+[29Dec2024 05:30:45.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q tengo q hacer
+[29Dec2024 05:30:45.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> la primea
+[29Dec2024 05:30:52.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> primera*
+[29Dec2024 05:31:24.687] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 05:31:24.694] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 05:33:32.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> consigo arena???
+[29Dec2024 05:33:38.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> si
+[29Dec2024 05:34:09.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ya se que paso con las ovejas
+[29Dec2024 05:34:14.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q
+[29Dec2024 05:34:17.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> se metio un lobo salvaje
+[29Dec2024 05:34:30.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> noooooooooo
+[29Dec2024 05:34:51.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Spectator Mode]
+[29Dec2024 05:34:58.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[29Dec2024 05:35:19.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
