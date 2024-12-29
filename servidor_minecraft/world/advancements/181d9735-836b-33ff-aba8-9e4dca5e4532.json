@@ -971,6 +971,7 @@
       "minecraft:slime": "2024-12-18 01:43:21 +0000",
       "minecraft:enderman": "2024-12-18 01:32:05 +0000",
       "minecraft:zombie": "2024-12-16 17:17:16 +0000",
+      "minecraft:drowned": "2024-12-29 05:58:00 +0000",
       "minecraft:zombie_villager": "2024-12-24 00:49:28 +0000"
     },
     "done": false
@@ -2084,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-29 05:55:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2024-12-24 04:06:48 +0000"
@@ -2159,6 +2166,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-15 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-29 05:55:14 +0000"
     },
     "done": true
   },
