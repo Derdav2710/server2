@@ -1154,3 +1154,20 @@ java.lang.NullPointerException: null
 [29Dec2024 06:21:24.699] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [29Dec2024 06:21:24.713] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [29Dec2024 06:21:29.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[29Dec2024 06:26:25.115] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:26:25.119] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 06:27:02.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q hacee
+[29Dec2024 06:27:15.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> conseguir mas experiencia
+[29Dec2024 06:27:23.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> pq no puedo momir
+[29Dec2024 06:31:25.089] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:31:25.093] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 06:35:05.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> comida
+[29Dec2024 06:35:20.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> tras de q me roba td la xp
+[29Dec2024 06:35:31.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> noooo
+[29Dec2024 06:35:36.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> cocinada
+[29Dec2024 06:35:49.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> aaaaaaaaaa y poyo no quiere
+[29Dec2024 06:35:51.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by thevip_1
+[29Dec2024 06:35:51.983] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-387, y:64, z:248, dim:minecraft:overworld]
+[29Dec2024 06:35:51.985] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[29Dec2024 06:36:01.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ooooooooo deam
+[29Dec2024 06:36:10.530] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> me cago en todo
