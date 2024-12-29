@@ -1134,3 +1134,23 @@ java.lang.NullPointerException: null
 [29Dec2024 06:14:23.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> suba lo del corail
 [29Dec2024 06:15:13.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzz
 [29Dec2024 06:15:37.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> pus me voy solo a hacer esa raid
+[29Dec2024 06:16:24.731] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:16:24.740] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 06:17:07.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> donde esta
+[29Dec2024 06:17:17.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> en los cofrES
+[29Dec2024 06:17:23.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> usted tiene iron
+[29Dec2024 06:18:07.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que paso
+[29Dec2024 06:18:14.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q va ahacer
+[29Dec2024 06:18:14.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> tiene iroooon?
+[29Dec2024 06:18:19.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> si
+[29Dec2024 06:18:50.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> recuerdeme como un heroe jaja
+[29Dec2024 06:19:07.661] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> pa donde va
+[29Dec2024 06:19:28.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> a hacerme la raid
+[29Dec2024 06:19:32.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> tpme
+[29Dec2024 06:20:08.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> pero necesito comida
+[29Dec2024 06:20:23.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ijiji no hay
+[29Dec2024 06:20:30.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> bn
+[29Dec2024 06:20:36.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> sigame
+[29Dec2024 06:21:24.699] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[29Dec2024 06:21:24.713] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[29Dec2024 06:21:29.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]

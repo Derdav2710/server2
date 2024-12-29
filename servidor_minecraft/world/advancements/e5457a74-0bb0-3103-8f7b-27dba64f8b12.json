@@ -2175,6 +2175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 06:15:31 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_easter_egg": {
     "criteria": {
       "coded_trigger": "2024-12-18 03:04:26 +0000"
