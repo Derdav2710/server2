@@ -66,3 +66,12 @@ java.lang.NullPointerException: null
 [29Dec2024 04:57:56.834] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:45859] logged in with entity id 335 at (-320.8397891158834, 71.0, 91.87780070907527)
 [29Dec2024 04:57:56.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
 [29Dec2024 04:57:57.270] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[29Dec2024 05:13:54.944] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3b3bfe27
+[29Dec2024 05:13:54.958] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:43093] logged in with entity id 3092 at (-284.3301386422167, 64.0, 185.16965389127068)
+[29Dec2024 05:13:54.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[29Dec2024 05:13:55.070] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[29Dec2024 05:14:14.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Spectator Mode]
+[29Dec2024 05:14:17.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[29Dec2024 05:14:24.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> hace un rato habian 2 esquieletos en la granja pero no ha salido nd mas
+[29Dec2024 05:14:35.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[29Dec2024 05:14:49.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> con dos nos morimos de hambre
