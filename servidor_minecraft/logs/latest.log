@@ -173,3 +173,34 @@ java.lang.NullPointerException: null
 [29Dec2024 06:02:48.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was shot by Skeleton
 [29Dec2024 06:02:48.929] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
 [29Dec2024 06:04:43.948] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> PQ PUTAS SE METEEEEEEEEEEEE
+[29Dec2024 06:10:42.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[29Dec2024 06:10:51.858] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-243, y=68, z=84}
+[29Dec2024 06:10:52.523] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-242, y=69, z=82}
+[29Dec2024 06:10:52.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Ambush]
+[29Dec2024 06:10:52.724] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-242, y=69, z=82}
+[29Dec2024 06:10:52.924] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-243, y=68, z=84}
+[29Dec2024 06:10:53.624] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-243, y=68, z=84}
+[29Dec2024 06:10:53.982] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-244, y=68, z=86}
+[29Dec2024 06:10:54.134] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-244, y=68, z=86}
+[29Dec2024 06:10:54.698] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-242, y=69, z=86}
+[29Dec2024 06:10:54.873] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-242, y=69, z=86}
+[29Dec2024 06:10:54.902] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-243, y=68, z=86}
+[29Dec2024 06:10:55.573] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-242, y=69, z=84}
+[29Dec2024 06:10:55.602] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-243, y=68, z=84}
+[29Dec2024 06:10:55.973] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-242, y=69, z=83}
+[29Dec2024 06:11:02.027] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-236, y=66, z=91}
+[29Dec2024 06:11:06.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Voluntary Exile]
+[29Dec2024 06:11:07.563] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-225, y=65, z=100}
+[29Dec2024 06:11:07.728] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-227, y=63, z=99}
+[29Dec2024 06:11:08.523] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-312, y=65, z=123} BlockPos{x=-225, y=62, z=99}
+[29Dec2024 06:12:48.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> tengo para hacer lo de la invasion
+[29Dec2024 06:12:57.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> NOOOOOOOOOOOOO
+[29Dec2024 06:13:10.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> Y DEJE DE USAR SUS PERROS Q CASI ME MATAN
+[29Dec2024 06:13:18.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> usted lespego
+[29Dec2024 06:13:27.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> Yo ocupo xp
+[29Dec2024 06:13:33.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesito hacerme eso
+[29Dec2024 06:13:34.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> SI ESTABAN TDS DONDE ESTABA YO
+[29Dec2024 06:14:06.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> Ahhh seeeee y mi xp a la chingada
+[29Dec2024 06:14:23.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> suba lo del corail
+[29Dec2024 06:15:13.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzz
+[29Dec2024 06:15:37.030] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> pus me voy solo a hacer esa raid
