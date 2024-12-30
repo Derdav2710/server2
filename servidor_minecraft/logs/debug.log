@@ -1286,3 +1286,9 @@ java.lang.NullPointerException: null
 [30Dec2024 08:49:46.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
 [30Dec2024 08:51:13.561] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Dec2024 08:51:13.565] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 08:56:13.594] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 08:56:13.599] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 08:59:57.805] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[30Dec2024 08:59:57.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[30Dec2024 09:01:13.254] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 09:01:13.272] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
