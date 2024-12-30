@@ -72,3 +72,10 @@ java.lang.NullPointerException: null
 [30Dec2024 05:24:03.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
 [30Dec2024 05:24:03.820] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
 [30Dec2024 05:30:32.488] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-286, y=70, z=78} BlockPos{x=-240, y=7, z=88}
+[30Dec2024 06:02:16.403] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[30Dec2024 06:02:16.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
+[30Dec2024 06:02:22.086] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7afa1991
+[30Dec2024 06:02:22.094] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:37729] logged in with entity id 6159 at (-283.5522401845492, 66.0, 112.7289275035696)
+[30Dec2024 06:02:22.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[30Dec2024 06:02:22.165] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[30Dec2024 06:10:01.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has reached the goal [A Small Cemetery]
