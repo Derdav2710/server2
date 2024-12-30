@@ -1227,3 +1227,36 @@ java.lang.NullPointerException: null
 [30Dec2024 08:31:13.570] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Dec2024 08:31:13.574] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [30Dec2024 08:31:27.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> yo hago el atril
+[30Dec2024 08:32:30.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> todavia hay un stack de nahoria
+[30Dec2024 08:32:37.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ocupamos 2
+[30Dec2024 08:34:09.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> las vuelve a sembrar verdad
+[30Dec2024 08:34:17.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzzzzzzzz
+[30Dec2024 08:34:51.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> consegui otro stack
+[30Dec2024 08:34:58.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[30Dec2024 08:35:32.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> nooo ToT
+[30Dec2024 08:35:42.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q
+[30Dec2024 08:36:05.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> me cobra carisimo ToT
+[30Dec2024 08:36:13.762] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 08:36:13.765] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 08:36:29.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> y la otra mesa??
+[30Dec2024 08:36:36.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> la hizo??
+[30Dec2024 08:36:48.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> q otra meza
+[30Dec2024 08:37:01.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> aaayyyy
+[30Dec2024 08:37:15.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ya vengo...
+[30Dec2024 08:37:45.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[30Dec2024 08:38:06.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> vea
+[30Dec2024 08:38:14.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> si ya vi
+[30Dec2024 08:38:19.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> deme un hacah
+[30Dec2024 08:38:21.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> hacha
+[30Dec2024 08:39:17.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> deme el hacha
+[30Dec2024 08:39:24.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ocupo el hacha
+[30Dec2024 08:39:36.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ya no hay hacha
+[30Dec2024 08:39:47.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ayyy
+[30Dec2024 08:39:57.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no tradee con ese de los palor aun{
+[30Dec2024 08:40:35.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ya ahora si
+[30Dec2024 08:40:48.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> deme las zanahorias
+[30Dec2024 08:41:13.685] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 08:41:13.688] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 08:42:01.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/32182, l='ServerLevel[world]', x=993.99, y=65.26, z=1424.65]
+[30Dec2024 08:42:01.008] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/32182, l='ServerLevel[world]', x=993.99, y=65.26, z=1424.65]
+[30Dec2024 08:42:01.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> coito coito
