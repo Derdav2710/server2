@@ -1012,3 +1012,22 @@ java.lang.NullPointerException: null
 [30Dec2024 06:17:27.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> obvio
 [30Dec2024 06:18:49.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> hice un compostador y un yunque y fui a conseguir iron q no habia
 [30Dec2024 06:19:00.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> OK
+[30Dec2024 06:20:44.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> Tiene una azada?
+[30Dec2024 06:20:57.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> no
+[30Dec2024 06:21:09.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> necesito uan
+[30Dec2024 06:21:13.540] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:21:13.550] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 06:21:16.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> y hay un mini zombie en la granja
+[30Dec2024 06:21:21.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> voy
+[30Dec2024 06:25:39.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> no habia dicho ud q ocupabamos aldeanos zombies
+[30Dec2024 06:25:58.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ya lo estaba atacando el esqueleto
+[30Dec2024 06:26:13.606] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 06:26:13.609] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 06:26:13.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> pues se mataba al esqueleto
+[30Dec2024 06:27:58.316] [Server thread/ERROR] [net.minecraft.village.PointOfInterestData/]: POI data mismatch: never registered at BlockPos{x=-246, y=67, z=72}
+[30Dec2024 06:29:11.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> pa q sirve el saco de semillas del corail
+[30Dec2024 06:29:30.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> me ubiera pedido las zanahorias
+[30Dec2024 06:29:41.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> dele click derecho a ese saco
+[30Dec2024 06:30:02.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> oooooo deam
+[30Dec2024 06:30:25.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> tenemos sandias
+[30Dec2024 06:30:36.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> y cacao
