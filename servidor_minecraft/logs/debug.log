@@ -1168,3 +1168,17 @@ java.lang.NullPointerException: null
 [30Dec2024 08:01:13.631] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [30Dec2024 08:01:30.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> no pero este no funciona
 [30Dec2024 08:01:39.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> es como usted inutil
+[30Dec2024 08:02:17.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> consegui meter a uno
+[30Dec2024 08:02:56.574] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> sos un pelotudo
+[30Dec2024 08:03:03.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> mas tonto y no nace
+[30Dec2024 08:06:04.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> dejalo
+[30Dec2024 08:06:13.612] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 08:06:13.622] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 08:06:32.615] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Butcher'/22294, l='ServerLevel[world]', x=1057.87, y=64.00, z=1370.07] died, message: 'Butcher was slain by Derdav'
+[30Dec2024 08:06:32.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Neighborhood Brawl]
+[30Dec2024 08:06:44.507] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/22283, l='ServerLevel[world]', x=1036.30, y=64.00, z=1379.30] died, message: 'Villager was slain by Derdav'
+[30Dec2024 08:07:54.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[30Dec2024 08:10:06.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[30Dec2024 08:11:13.644] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Dec2024 08:11:13.646] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Dec2024 08:11:48.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
