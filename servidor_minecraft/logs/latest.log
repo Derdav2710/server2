@@ -71,3 +71,4 @@ java.lang.NullPointerException: null
 [30Dec2024 05:24:03.355] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:60447] logged in with entity id 289 at (-244.5, 67.5625, 72.5)
 [30Dec2024 05:24:03.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
 [30Dec2024 05:24:03.820] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[30Dec2024 05:30:32.488] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-286, y=70, z=78} BlockPos{x=-240, y=7, z=88}
