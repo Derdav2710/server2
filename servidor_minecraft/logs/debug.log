@@ -995,3 +995,9 @@ java.lang.NullPointerException: null
 [31Dec2024 23:26:08.794] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [31Dec2024 23:31:08.886] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [31Dec2024 23:31:08.890] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 23:36:08.950] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:36:08.952] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 23:41:08.867] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:41:08.872] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 23:41:19.225] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/25814, l='ServerLevel[world]', x=200.70, y=79.00, z=555.74] died, message: 'Weaponsmith was slain by Zombie'
+[31Dec2024 23:41:23.976] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/25744, l='ServerLevel[world]', x=200.45, y=79.00, z=557.14] died, message: 'Fisherman was slain by Zombie Villager'

@@ -86,3 +86,5 @@ java.lang.NullPointerException: null
 [31Dec2024 22:58:47.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Fishy Business]
 [31Dec2024 23:24:12.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Spider
 [31Dec2024 23:24:12.742] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[31Dec2024 23:41:19.225] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/25814, l='ServerLevel[world]', x=200.70, y=79.00, z=555.74] died, message: 'Weaponsmith was slain by Zombie'
+[31Dec2024 23:41:23.976] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/25744, l='ServerLevel[world]', x=200.45, y=79.00, z=557.14] died, message: 'Fisherman was slain by Zombie Villager'
