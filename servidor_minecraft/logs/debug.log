@@ -1001,3 +1001,10 @@ java.lang.NullPointerException: null
 [31Dec2024 23:41:08.872] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [31Dec2024 23:41:19.225] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/25814, l='ServerLevel[world]', x=200.70, y=79.00, z=555.74] died, message: 'Weaponsmith was slain by Zombie'
 [31Dec2024 23:41:23.976] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fisherman'/25744, l='ServerLevel[world]', x=200.45, y=79.00, z=557.14] died, message: 'Fisherman was slain by Zombie Villager'
+[31Dec2024 23:46:08.686] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:46:08.690] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 23:47:40.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was shot by Skeleton
+[31Dec2024 23:47:40.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-301, y:63, z:155, dim:minecraft:overworld]
+[31Dec2024 23:47:40.179] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[31Dec2024 23:51:08.973] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:51:08.976] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

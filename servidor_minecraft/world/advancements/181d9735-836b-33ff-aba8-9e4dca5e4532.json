@@ -1549,6 +1549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-31 23:45:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-16 17:28:03 +0000"
@@ -1589,6 +1595,7 @@
       "apple": "2024-12-16 17:20:03 +0000",
       "pumpkin_pie": "2024-12-31 23:30:59 +0000",
       "bread": "2024-12-24 01:21:21 +0000",
+      "suspicious_stew": "2024-12-31 23:45:18 +0000",
       "salmon": "2024-12-24 02:58:43 +0000",
       "melon_slice": "2024-12-31 23:29:02 +0000",
       "golden_carrot": "2024-12-29 06:14:45 +0000",
