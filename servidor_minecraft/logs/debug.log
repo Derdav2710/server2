@@ -754,3 +754,11 @@ java.lang.NullPointerException: null
 [31Dec2024 18:51:42.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12483ms or 249 ticks behind
 [31Dec2024 18:56:08.953] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [31Dec2024 18:56:08.960] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 19:01:08.839] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 19:01:08.861] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 19:06:09.308] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 19:06:09.314] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 19:08:40.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[31Dec2024 19:09:15.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[31Dec2024 19:09:15.057] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:997, y:67, z:1390, dim:minecraft:overworld]
+[31Dec2024 19:09:15.081] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved

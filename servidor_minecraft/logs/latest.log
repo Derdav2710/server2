@@ -66,3 +66,6 @@ java.lang.NullPointerException: null
 [31Dec2024 18:51:13.248] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
 [31Dec2024 18:51:14.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2692ms or 53 ticks behind
 [31Dec2024 18:51:42.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12483ms or 249 ticks behind
+[31Dec2024 19:08:40.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[31Dec2024 19:09:15.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[31Dec2024 19:09:15.081] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
