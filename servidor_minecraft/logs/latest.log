@@ -69,3 +69,5 @@ java.lang.NullPointerException: null
 [31Dec2024 19:08:40.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
 [31Dec2024 19:09:15.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
 [31Dec2024 19:09:15.081] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[31Dec2024 19:11:38.277] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[31Dec2024 19:11:38.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
