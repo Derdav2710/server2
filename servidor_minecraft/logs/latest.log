@@ -76,3 +76,11 @@ java.lang.NullPointerException: null
 [31Dec2024 21:50:15.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
 [31Dec2024 21:50:15.774] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
 [31Dec2024 21:57:51.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [What a Deal!]
+[31Dec2024 22:53:29.038] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[31Dec2024 22:53:29.039] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[31Dec2024 22:53:29.039] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[31Dec2024 22:53:29.040] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[31Dec2024 22:53:29.041] [Server thread/ERROR] [net.minecraft.item.crafting.ServerRecipePlacer/]: Can't find any space for item in the inventory
+[31Dec2024 22:54:54.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Zombie
+[31Dec2024 22:54:54.386] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[31Dec2024 22:58:47.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Fishy Business]
