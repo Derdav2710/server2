@@ -988,3 +988,10 @@ java.lang.NullPointerException: null
 [31Dec2024 23:16:08.527] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [31Dec2024 23:21:08.952] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [31Dec2024 23:21:08.955] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 23:24:12.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Spider
+[31Dec2024 23:24:12.729] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:1030, y:64, z:1407, dim:minecraft:overworld]
+[31Dec2024 23:24:12.742] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[31Dec2024 23:26:08.791] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:26:08.794] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[31Dec2024 23:31:08.886] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[31Dec2024 23:31:08.890] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

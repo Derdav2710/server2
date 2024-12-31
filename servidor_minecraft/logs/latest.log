@@ -84,3 +84,5 @@ java.lang.NullPointerException: null
 [31Dec2024 22:54:54.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Zombie
 [31Dec2024 22:54:54.386] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [31Dec2024 22:58:47.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Fishy Business]
+[31Dec2024 23:24:12.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Spider
+[31Dec2024 23:24:12.742] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
