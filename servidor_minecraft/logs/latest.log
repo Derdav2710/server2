@@ -61,3 +61,5 @@ java.lang.NullPointerException: null
 [01Jan2025 21:33:21.581] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:46153] logged in with entity id 288 at (-193.9487904058759, 12.0, 16.772909588305584)
 [01Jan2025 21:33:21.668] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
 [01Jan2025 21:33:21.953] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[01Jan2025 21:41:54.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[01Jan2025 21:48:08.272] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2826, l='ServerLevel[world]', x=228.60, y=66.00, z=512.60] died, message: 'Villager was slain by Zombie'
