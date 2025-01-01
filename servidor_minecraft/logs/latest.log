@@ -1,3 +1,11 @@
 [01Jan2025 00:03:26.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [First Prayer]
 [01Jan2025 00:09:48.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Magic Impregnation]
 [01Jan2025 00:09:48.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Let The Magic Happen]
+[01Jan2025 00:15:17.924] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav was kicked for floating too long!
+[01Jan2025 00:15:17.927] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Flying is not enabled on this server
+[01Jan2025 00:15:17.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[01Jan2025 00:15:17.972] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[01Jan2025 00:15:42.944] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1edac8d9
+[01Jan2025 00:15:42.957] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:47997] logged in with entity id 34417 at (-293.74352036084133, 64.7531999805212, 335.9697495924805)
+[01Jan2025 00:15:42.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[01Jan2025 00:15:42.986] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)

@@ -1126,6 +1126,7 @@
       "minecraft:beach": "2024-12-24 03:51:25 +0000",
       "minecraft:dark_forest": "2024-12-16 17:56:30 +0000",
       "minecraft:river": "2024-12-16 17:33:18 +0000",
+      "minecraft:wooded_mountains": "2025-01-01 00:20:19 +0000",
       "minecraft:wooded_hills": "2024-12-15 21:54:30 +0000",
       "minecraft:giant_tree_taiga_hills": "2024-12-16 17:54:07 +0000",
       "minecraft:stone_shore": "2024-12-24 03:48:09 +0000",
@@ -1213,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-01 00:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-15 22:14:26 +0000"
@@ -1222,6 +1229,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2024-12-31 21:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-01 00:17:31 +0000"
     },
     "done": true
   },
@@ -1258,6 +1271,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2024-12-31 21:57:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2025-01-01 00:18:02 +0000"
     },
     "done": true
   },
@@ -2167,6 +2186,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-31 21:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-01 00:17:16 +0000"
     },
     "done": true
   },
