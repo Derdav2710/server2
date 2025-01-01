@@ -83,3 +83,13 @@ java.lang.NullPointerException: null
 [01Jan2025 23:28:03.488] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:45527] logged in with entity id 16037 at (1052.8862309933022, 23.130116973561808, 1388.9538433275347)
 [01Jan2025 23:28:03.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
 [01Jan2025 23:28:03.557] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[01Jan2025 23:33:50.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[01Jan2025 23:33:50.536] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[01Jan2025 23:35:59.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[01Jan2025 23:35:59.739] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[01Jan2025 23:40:21.783] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@38689da3
+[01Jan2025 23:40:21.802] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: thevip_1[/127.87.138.222:53481] logged in with entity id 18694 at (1004.2375000119206, 64.0, 1427.146744575594)
+[01Jan2025 23:40:21.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 joined the game
+[01Jan2025 23:40:21.846] [Server thread/INFO] [Waila/]: Syncing config to thevip_1 (e5457a74-0bb0-3103-8f7b-27dba64f8b12)
+[01Jan2025 23:40:29.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> entro la escoria :o
+[01Jan2025 23:42:35.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> en en cofre hay un barril y algo mas ya no recuerdo pongale uno de los dos a ese aldeano
