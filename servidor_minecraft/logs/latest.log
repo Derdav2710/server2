@@ -65,3 +65,7 @@ java.lang.NullPointerException: null
 [01Jan2025 21:48:08.272] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2826, l='ServerLevel[world]', x=228.60, y=66.00, z=512.60] died, message: 'Villager was slain by Zombie'
 [01Jan2025 22:19:12.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
 [01Jan2025 22:21:44.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[01Jan2025 23:04:22.019] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-265, y=68, z=125} BlockPos{x=-265, y=66, z=125}
+[01Jan2025 23:04:22.224] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-264, y=67, z=124} BlockPos{x=-265, y=66, z=123}
+[01Jan2025 23:06:13.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Enderman
+[01Jan2025 23:06:13.108] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
