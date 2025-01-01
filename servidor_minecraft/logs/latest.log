@@ -69,3 +69,7 @@ java.lang.NullPointerException: null
 [01Jan2025 23:04:22.224] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-264, y=67, z=124} BlockPos{x=-265, y=66, z=123}
 [01Jan2025 23:06:13.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Enderman
 [01Jan2025 23:06:13.108] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[01Jan2025 23:13:01.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[01Jan2025 23:13:01.054] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[01Jan2025 23:19:31.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
+[01Jan2025 23:21:22.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
