@@ -1015,3 +1015,10 @@ java.lang.NullPointerException: null
 [31Dec2024 23:56:35.632] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [01Jan2025 00:01:08.741] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [01Jan2025 00:01:08.745] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Jan2025 00:03:26.727] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [First Prayer]
+[01Jan2025 00:06:08.573] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Jan2025 00:06:08.578] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Jan2025 00:09:48.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Magic Impregnation]
+[01Jan2025 00:09:48.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Let The Magic Happen]
+[01Jan2025 00:11:08.617] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Jan2025 00:11:08.620] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
