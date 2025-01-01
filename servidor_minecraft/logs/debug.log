@@ -749,3 +749,7 @@ java.lang.NullPointerException: null
 [01Jan2025 21:47:08.399] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [01Jan2025 21:47:08.404] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [01Jan2025 21:48:08.272] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2826, l='ServerLevel[world]', x=228.60, y=66.00, z=512.60] died, message: 'Villager was slain by Zombie'
+[01Jan2025 21:52:08.341] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:52:08.350] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[01Jan2025 21:57:08.111] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:57:08.115] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
