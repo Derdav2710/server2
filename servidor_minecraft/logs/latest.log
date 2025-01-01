@@ -73,3 +73,13 @@ java.lang.NullPointerException: null
 [01Jan2025 23:13:01.054] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [01Jan2025 23:19:31.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
 [01Jan2025 23:21:22.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
+[01Jan2025 23:27:00.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav fell from a high place
+[01Jan2025 23:27:00.828] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[01Jan2025 23:27:55.272] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav was kicked for floating too long!
+[01Jan2025 23:27:55.275] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Flying is not enabled on this server
+[01Jan2025 23:27:55.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[01Jan2025 23:27:55.324] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[01Jan2025 23:28:03.480] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@d350b57
+[01Jan2025 23:28:03.488] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:45527] logged in with entity id 16037 at (1052.8862309933022, 23.130116973561808, 1388.9538433275347)
+[01Jan2025 23:28:03.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[01Jan2025 23:28:03.557] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
