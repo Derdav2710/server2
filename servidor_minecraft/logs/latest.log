@@ -63,3 +63,5 @@ java.lang.NullPointerException: null
 [01Jan2025 21:33:21.953] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
 [01Jan2025 21:41:54.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
 [01Jan2025 21:48:08.272] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/2826, l='ServerLevel[world]', x=228.60, y=66.00, z=512.60] died, message: 'Villager was slain by Zombie'
+[01Jan2025 22:19:12.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[01Jan2025 22:21:44.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
