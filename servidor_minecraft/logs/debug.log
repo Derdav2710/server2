@@ -1089,3 +1089,26 @@ java.lang.NullPointerException: null
 [02Jan2025 00:12:03.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que extraño
 [02Jan2025 00:12:08.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [02Jan2025 00:12:08.553] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:17:08.297] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:17:08.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:18:32.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzz
+[02Jan2025 00:18:56.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> aga tp mjr
+[02Jan2025 00:18:56.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzzzzzzzzzzzzzzz
+[02Jan2025 00:18:58.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzzzzzzzzzzzzz
+[02Jan2025 00:19:02.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[02Jan2025 00:19:09.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzzzzzzzzzzzzzz
+[02Jan2025 00:20:56.920] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=65, z=98} BlockPos{x=-255, y=66, z=98}
+[02Jan2025 00:20:59.645] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=65, z=98} BlockPos{x=-256, y=66, z=101}
+[02Jan2025 00:21:00.450] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=65, z=98} BlockPos{x=-256, y=65, z=100}
+[02Jan2025 00:21:00.650] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=65, z=98} BlockPos{x=-255, y=66, z=99}
+[02Jan2025 00:21:02.255] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=65, z=98} BlockPos{x=-255, y=66, z=97}
+[02Jan2025 00:21:02.555] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-260, y=65, z=98} BlockPos{x=-256, y=66, z=101}
+[02Jan2025 00:21:10.079] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-258, y=65, z=99} BlockPos{x=-256, y=66, z=101}
+[02Jan2025 00:21:10.148] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-258, y=65, z=99} BlockPos{x=-256, y=65, z=101}
+[02Jan2025 00:21:11.050] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-258, y=65, z=100} BlockPos{x=-255, y=66, z=100}
+[02Jan2025 00:21:11.184] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-258, y=65, z=100} BlockPos{x=-255, y=66, z=100}
+[02Jan2025 00:21:11.251] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-258, y=65, z=100} BlockPos{x=-255, y=66, z=100}
+[02Jan2025 00:21:12.586] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-258, y=66, z=97} BlockPos{x=-255, y=66, z=96}
+[02Jan2025 00:21:13.391] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-257, y=66, z=95} BlockPos{x=-255, y=66, z=98}
+[02Jan2025 00:22:08.492] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:22:08.495] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
