@@ -1060,3 +1060,13 @@ java.lang.NullPointerException: null
 [01Jan2025 23:52:41.279] [Server thread/DEBUG] [tombstone/]: A new grave of the player thevip_1 was created at position [x:999, y:64, z:1404, dim:minecraft:overworld]
 [01Jan2025 23:52:41.281] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
 [01Jan2025 23:52:44.325] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> jajaj
+[01Jan2025 23:53:29.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> me agarro desprivinido el conchesumare
+[01Jan2025 23:56:31.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> oiga ocupo ir a la casa
+[01Jan2025 23:56:39.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[01Jan2025 23:57:08.258] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:57:08.263] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:02:02.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> aplano la parte de aqui atras??
+[02Jan2025 00:02:08.155] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:02:08.158] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:02:12.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> si si
+[02Jan2025 00:02:21.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> que se vea bonito
