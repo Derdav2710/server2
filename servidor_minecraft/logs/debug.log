@@ -896,3 +896,10 @@ java.lang.NullPointerException: null
 [02Jan2025 02:35:41.746] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [02Jan2025 02:39:19.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
 [02Jan2025 02:39:58.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[02Jan2025 02:40:41.549] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:40:41.560] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 02:45:41.815] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:45:41.822] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 02:45:52.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[02Jan2025 02:49:04.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzz
+[02Jan2025 02:49:18.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ZZZZZZZZZZZZZ!!!
