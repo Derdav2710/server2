@@ -1166,6 +1166,7 @@
       "minecraft:giant_tree_taiga": "2024-12-16 17:54:32 +0000",
       "minecraft:desert": "2024-12-24 04:03:12 +0000",
       "minecraft:birch_forest": "2024-12-18 01:45:28 +0000",
+      "minecraft:badlands": "2025-01-02 02:34:54 +0000",
       "minecraft:savanna_plateau": "2024-12-24 04:00:56 +0000",
       "minecraft:beach": "2024-12-24 03:51:25 +0000",
       "minecraft:dark_forest": "2024-12-16 17:56:30 +0000",
@@ -1174,6 +1175,7 @@
       "minecraft:wooded_hills": "2024-12-15 21:54:30 +0000",
       "minecraft:giant_tree_taiga_hills": "2024-12-16 17:54:07 +0000",
       "minecraft:stone_shore": "2024-12-24 03:48:09 +0000",
+      "minecraft:wooded_badlands_plateau": "2025-01-02 02:35:10 +0000",
       "minecraft:swamp": "2024-12-18 01:29:14 +0000",
       "minecraft:savanna": "2024-12-24 03:57:46 +0000",
       "minecraft:plains": "2024-12-15 21:57:04 +0000"
@@ -1507,6 +1509,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-31 21:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-02 02:34:58 +0000"
     },
     "done": true
   },
