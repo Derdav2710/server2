@@ -1077,6 +1077,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-18 03:18:18 +0000",
+      "minecraft:badlands_plateau": "2025-01-02 02:16:26 +0000",
       "minecraft:taiga": "2024-12-18 02:56:16 +0000",
       "minecraft:giant_tree_taiga": "2024-12-18 03:06:07 +0000",
       "minecraft:desert": "2025-01-02 01:50:22 +0000",
@@ -1089,6 +1090,7 @@
       "minecraft:birch_forest_hills": "2024-12-24 04:44:40 +0000",
       "minecraft:wooded_hills": "2024-12-18 02:55:25 +0000",
       "minecraft:giant_tree_taiga_hills": "2024-12-18 03:08:12 +0000",
+      "minecraft:wooded_badlands_plateau": "2025-01-02 02:17:02 +0000",
       "minecraft:swamp": "2024-12-18 07:08:45 +0000",
       "minecraft:savanna": "2024-12-30 07:49:43 +0000",
       "minecraft:plains": "2024-12-18 02:55:48 +0000"
@@ -1485,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-02 02:23:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-29 05:42:57 +0000"
@@ -1754,6 +1762,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2024-12-30 08:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-02 02:23:09 +0000"
     },
     "done": true
   },
