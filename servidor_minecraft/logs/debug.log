@@ -903,3 +903,30 @@ java.lang.NullPointerException: null
 [02Jan2025 02:45:52.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
 [02Jan2025 02:49:04.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzz
 [02Jan2025 02:49:18.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ZZZZZZZZZZZZZ!!!
+[02Jan2025 02:50:43.625] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:50:43.629] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 02:50:43.660] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -0.29711352028880356,-2.529223211207764,10.065429762632903
+[02Jan2025 02:50:43.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[02Jan2025 02:51:52.187] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[02Jan2025 02:54:26.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Magic Writing]
+[02Jan2025 02:55:46.296] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 02:55:46.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 02:55:46.323] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! 3.26853341118931,1.252203340253729,9.635475996407877
+[02Jan2025 02:55:46.324] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -8.81722347700861,0.2712241076924897,5.2025267976137
+[02Jan2025 02:55:46.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2689ms or 53 ticks behind
+[02Jan2025 03:00:24.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> zzzzzzzzzzzzz
+[02Jan2025 03:00:49.603] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:00:49.606] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 03:00:49.620] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 9.852722383235005,-1.252203340253729,-2.169965038792043
+[02Jan2025 03:00:49.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3320ms or 66 ticks behind
+[02Jan2025 03:02:29.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> encontre una bruja y una danjon
+[02Jan2025 03:05:52.435] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:05:52.446] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 03:05:52.467] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! -0.958650163253651,-1.1767592750642422,-10.006095027555602
+[02Jan2025 03:05:52.470] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! 6.965841968146151,3.247851099632541,6.816051649971996
+[02Jan2025 03:05:52.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[02Jan2025 03:10:55.250] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:10:55.252] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 03:10:55.274] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! -8.449828811280213,1.4199999868869781,5.655132641997625
+[02Jan2025 03:10:55.278] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 moved too quickly! 10.180440015692284,0.5061351021062137,0.20831480331798957
+[02Jan2025 03:10:55.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
