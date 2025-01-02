@@ -954,3 +954,10 @@ java.lang.NullPointerException: null
 [02Jan2025 03:21:51.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [02Jan2025 03:21:51.657] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav moved too quickly! 6.973483546868124,-1.8622826671866974,7.224978007801383
 [02Jan2025 03:21:51.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2818ms or 56 ticks behind
+[02Jan2025 03:23:09.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> zzzzzzzzzzzz
+[02Jan2025 03:26:08.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[02Jan2025 03:26:52.217] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:26:52.221] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 03:27:29.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[02Jan2025 03:31:52.096] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:31:52.100] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
