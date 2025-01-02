@@ -1120,3 +1120,12 @@ java.lang.NullPointerException: null
 [02Jan2025 00:30:14.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> hjajaja
 [02Jan2025 00:32:08.918] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [02Jan2025 00:32:08.921] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:36:42.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Zombie
+[02Jan2025 00:36:42.470] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-245, y:69, z:94, dim:minecraft:overworld]
+[02Jan2025 00:36:42.477] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[02Jan2025 00:37:08.351] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:37:08.355] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:42:08.197] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Jan2025 00:42:08.200] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Jan2025 00:42:41.219] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[02Jan2025 00:42:41.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
