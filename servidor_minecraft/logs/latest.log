@@ -69,3 +69,11 @@ java.lang.NullPointerException: null
 [05Jan2025 01:02:51.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
 [05Jan2025 01:02:54.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
 [05Jan2025 01:03:46.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[05Jan2025 01:14:07.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[05Jan2025 01:14:07.822] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[05Jan2025 01:14:38.907] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[05Jan2025 01:14:38.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[05Jan2025 01:20:39.077] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b60c96a
+[05Jan2025 01:20:39.090] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:51409] logged in with entity id 10370 at (1039.21830020409, 64.0, 1414.5940471498134)
+[05Jan2025 01:20:39.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[05Jan2025 01:20:39.158] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
