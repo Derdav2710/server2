@@ -79,3 +79,13 @@ java.lang.NullPointerException: null
 [05Jan2025 01:20:39.158] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
 [05Jan2025 01:29:58.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was killed by Witch using magic
 [05Jan2025 01:29:58.926] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[05Jan2025 02:12:49.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Zombie
+[05Jan2025 02:12:49.957] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[05Jan2025 02:13:37.806] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: You logged in from another location
+[05Jan2025 02:13:37.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[05Jan2025 02:13:37.879] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@603dfecb
+[05Jan2025 02:13:37.976] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[05Jan2025 02:13:37.982] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Derdav[/127.87.138.222:38179] logged in with entity id 21682 at (-306.7557270891342, 63.0, 169.5520594710976)
+[05Jan2025 02:13:38.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
+[05Jan2025 02:13:38.081] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
+[05Jan2025 02:14:45.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
