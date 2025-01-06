@@ -753,3 +753,14 @@ java.lang.NullPointerException: null
 [06Jan2025 17:04:03.211] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
 [06Jan2025 17:07:26.222] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [06Jan2025 17:07:26.230] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 17:12:25.934] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 17:12:25.940] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 17:17:26.088] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[06Jan2025 17:17:26.098] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[06Jan2025 17:20:16.520] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3817, l='ServerLevel[world]', x=995.65, y=65.88, z=1423.29]
+[06Jan2025 17:20:18.419] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3828, l='ServerLevel[world]', x=995.65, y=65.88, z=1423.29]
+[06Jan2025 17:20:21.113] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3831, l='ServerLevel[world]', x=995.45, y=65.88, z=1423.53]
+[06Jan2025 17:20:21.813] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3836, l='ServerLevel[world]', x=995.45, y=65.88, z=1423.53]
+[06Jan2025 17:20:22.513] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3841, l='ServerLevel[world]', x=995.45, y=65.88, z=1423.53]
+[06Jan2025 17:20:23.213] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3849, l='ServerLevel[world]', x=995.45, y=65.88, z=1423.53]
+[06Jan2025 17:20:23.916] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/3856, l='ServerLevel[world]', x=995.45, y=65.88, z=1423.53]
