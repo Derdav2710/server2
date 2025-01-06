@@ -77,3 +77,5 @@ java.lang.NullPointerException: null
 [06Jan2025 17:27:30.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
 [06Jan2025 17:28:42.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
 [06Jan2025 17:31:11.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[06Jan2025 17:45:59.962] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[06Jan2025 17:45:59.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
