@@ -740,3 +740,7 @@ java.lang.NullPointerException: null
 [07Jan2025 02:39:24.878] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [07Jan2025 02:40:34.415] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [07Jan2025 02:40:34.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 02:45:33.928] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:45:33.933] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 02:50:33.272] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:50:33.276] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
