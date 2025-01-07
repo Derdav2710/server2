@@ -121,3 +121,11 @@ java.lang.NullPointerException: null
 [07Jan2025 03:24:58.565] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
 [07Jan2025 03:24:58.630] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
 [07Jan2025 03:25:17.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has completed the challenge [Hot Tourist Destinations]
+[07Jan2025 03:27:36.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has completed the challenge [Return to Sender]
+[07Jan2025 03:28:40.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Hoglin
+[07Jan2025 03:28:40.461] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:30:46.029] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1182, y=41, z=8} BlockPos{x=1184, y=41, z=4}
+[07Jan2025 03:32:37.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Ghast
+[07Jan2025 03:32:37.008] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:34:30.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Enderman
+[07Jan2025 03:34:30.510] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
