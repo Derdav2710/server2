@@ -732,3 +732,11 @@ java.lang.NullPointerException: null
 [07Jan2025 02:25:47.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
 [07Jan2025 02:30:33.928] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [07Jan2025 02:30:33.935] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 02:35:33.610] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:35:33.616] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 02:38:23.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[07Jan2025 02:39:24.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was doomed to fall by Zombie
+[07Jan2025 02:39:24.847] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:1075, y:40, z:1329, dim:minecraft:overworld]
+[07Jan2025 02:39:24.878] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 02:40:34.415] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 02:40:34.421] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

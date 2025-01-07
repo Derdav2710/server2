@@ -65,3 +65,6 @@ java.lang.NullPointerException: null
 [07Jan2025 02:25:45.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav joined the game
 [07Jan2025 02:25:45.676] [Server thread/INFO] [Waila/]: Syncing config to Derdav (181d9735-836b-33ff-aba8-9e4dca5e4532)
 [07Jan2025 02:25:47.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[07Jan2025 02:38:23.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[07Jan2025 02:39:24.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was doomed to fall by Zombie
+[07Jan2025 02:39:24.878] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
