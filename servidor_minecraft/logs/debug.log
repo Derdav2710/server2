@@ -789,3 +789,32 @@ java.lang.NullPointerException: null
 [07Jan2025 03:10:36.843] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [07Jan2025 03:10:36.846] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [07Jan2025 03:12:26.943] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=653, y=45, z=205} BlockPos{x=652, y=44, z=205}
+[07Jan2025 03:15:37.182] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:15:37.185] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 03:15:41.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Piglin
+[07Jan2025 03:15:41.111] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:793, y:51, z:102, dim:minecraft:the_nether]
+[07Jan2025 03:15:41.119] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:16:42.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Piglin
+[07Jan2025 03:16:42.457] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:802, y:53, z:119, dim:minecraft:the_nether]
+[07Jan2025 03:16:42.469] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:17:37.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Piglin
+[07Jan2025 03:17:37.370] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:791, y:54, z:88, dim:minecraft:the_nether]
+[07Jan2025 03:17:37.412] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:18:51.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Piglin
+[07Jan2025 03:18:51.504] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:752, y:53, z:91, dim:minecraft:the_nether]
+[07Jan2025 03:18:51.513] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:19:23.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Piglin
+[07Jan2025 03:19:23.204] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:764, y:53, z:103, dim:minecraft:the_nether]
+[07Jan2025 03:19:23.211] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:19:35.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Piglin
+[07Jan2025 03:19:35.672] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:20:36.818] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[07Jan2025 03:20:36.824] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[07Jan2025 03:22:19.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Take Aim]
+[07Jan2025 03:24:58.363] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
+[07Jan2025 03:24:58.430] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
+[07Jan2025 03:24:58.464] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
+[07Jan2025 03:24:58.530] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
+[07Jan2025 03:24:58.565] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
+[07Jan2025 03:24:58.630] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1071, y=35, z=15} BlockPos{x=1071, y=34, z=15}
+[07Jan2025 03:25:17.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has completed the challenge [Hot Tourist Destinations]
