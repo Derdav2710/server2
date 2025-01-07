@@ -1557,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 03:45:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-29 06:10:52 +0000"
@@ -1844,6 +1850,7 @@
       "pumpkin_pie": "2024-12-31 23:30:59 +0000",
       "bread": "2024-12-24 01:21:21 +0000",
       "suspicious_stew": "2024-12-31 23:45:18 +0000",
+      "rotten_flesh": "2025-01-07 03:41:10 +0000",
       "salmon": "2024-12-24 02:58:43 +0000",
       "melon_slice": "2024-12-31 23:29:02 +0000",
       "golden_carrot": "2024-12-29 06:14:45 +0000",

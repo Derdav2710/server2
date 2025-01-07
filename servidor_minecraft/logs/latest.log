@@ -129,3 +129,22 @@ java.lang.NullPointerException: null
 [07Jan2025 03:32:37.008] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [07Jan2025 03:34:30.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Enderman
 [07Jan2025 03:34:30.510] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:36:37.719] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1077, y=52, z=78} BlockPos{x=1077, y=51, z=79}
+[07Jan2025 03:36:37.755] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1077, y=52, z=78} BlockPos{x=1077, y=51, z=79}
+[07Jan2025 03:36:37.820] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=1077, y=52, z=78} BlockPos{x=1077, y=51, z=79}
+[07Jan2025 03:37:12.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav walked into fire whilst fighting Ghast
+[07Jan2025 03:37:12.407] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:46:07.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav fell from a high place
+[07Jan2025 03:46:07.156] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:47:04.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was burnt to a crisp whilst fighting Skeleton
+[07Jan2025 03:47:04.996] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:49:27.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Enderman
+[07Jan2025 03:49:27.470] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:51:42.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav fell from a high place
+[07Jan2025 03:51:42.644] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:53:12.195] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=826, y=64, z=-741}
+[07Jan2025 03:53:17.517] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=829, y=58, z=-739} BlockPos{x=829, y=59, z=-739}
+[07Jan2025 03:54:18.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava
+[07Jan2025 03:54:18.372] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 03:54:40.557] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[07Jan2025 03:54:40.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
