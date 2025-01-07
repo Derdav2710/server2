@@ -68,3 +68,7 @@ java.lang.NullPointerException: null
 [07Jan2025 02:38:23.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
 [07Jan2025 02:39:24.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was doomed to fall by Zombie
 [07Jan2025 02:39:24.878] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[07Jan2025 02:59:36.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [We Need to Go Deeper]
+[07Jan2025 02:59:36.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[07Jan2025 03:04:52.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav fell from a high place
+[07Jan2025 03:04:52.992] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
