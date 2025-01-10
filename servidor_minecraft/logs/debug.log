@@ -859,3 +859,7 @@ java.lang.NullPointerException: null
 [10Jan2025 04:00:37.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Timed out
 [10Jan2025 04:00:37.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
 [10Jan2025 04:00:37.697] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[10Jan2025 04:04:32.046] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:04:32.053] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 04:09:31.952] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 04:09:31.955] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
