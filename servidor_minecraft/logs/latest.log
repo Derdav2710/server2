@@ -120,3 +120,7 @@ java.lang.NullPointerException: null
 [10Jan2025 03:12:44.260] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [10Jan2025 03:16:46.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
 [10Jan2025 03:16:55.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[10Jan2025 03:57:27.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Cover Me With Diamonds]
+[10Jan2025 04:00:37.649] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Timed out
+[10Jan2025 04:00:37.650] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[10Jan2025 04:00:37.697] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
