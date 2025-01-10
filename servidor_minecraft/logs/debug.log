@@ -821,3 +821,11 @@ java.lang.NullPointerException: null
 [10Jan2025 02:56:58.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [Fortuitous Militia]
 [10Jan2025 02:59:32.662] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 02:59:32.665] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 03:01:37.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Ravager
+[10Jan2025 03:01:37.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:232, y:74, z:570, dim:minecraft:overworld]
+[10Jan2025 03:01:37.155] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 03:02:29.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has completed the challenge [Hero of the Village]
+[10Jan2025 03:04:32.095] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:04:32.111] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 03:09:32.614] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 03:09:32.617] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
