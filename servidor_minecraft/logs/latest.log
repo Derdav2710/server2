@@ -115,3 +115,8 @@ java.lang.NullPointerException: null
 [10Jan2025 03:01:37.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Ravager
 [10Jan2025 03:01:37.155] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [10Jan2025 03:02:29.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has completed the challenge [Hero of the Village]
+[10Jan2025 03:10:39.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: The difficulty has been set to Hard]
+[10Jan2025 03:12:44.252] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was blown up by Creeper
+[10Jan2025 03:12:44.260] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 03:16:46.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[10Jan2025 03:16:55.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
