@@ -78,3 +78,13 @@ java.lang.NullPointerException: null
 [10Jan2025 01:45:48.004] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [10Jan2025 01:46:31.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav burned to death
 [10Jan2025 01:46:31.859] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:48:51.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Ghast
+[10Jan2025 01:48:51.490] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:50:12.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava
+[10Jan2025 01:50:12.271] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:51:37.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav burned to death
+[10Jan2025 01:51:37.604] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:55:21.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Magma Cube
+[10Jan2025 01:55:21.207] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:57:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Magma Cube
+[10Jan2025 01:57:22.753] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved

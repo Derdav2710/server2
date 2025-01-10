@@ -747,3 +747,22 @@ java.lang.NullPointerException: null
 [10Jan2025 01:46:31.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav burned to death
 [10Jan2025 01:46:31.855] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-308, y:56, z:-31, dim:minecraft:the_nether]
 [10Jan2025 01:46:31.859] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:48:51.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Ghast
+[10Jan2025 01:48:51.488] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-353, y:34, z:-117, dim:minecraft:the_nether]
+[10Jan2025 01:48:51.490] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:49:32.908] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:49:32.913] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 01:50:12.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava
+[10Jan2025 01:50:12.266] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-229, y:35, z:-178, dim:minecraft:the_nether]
+[10Jan2025 01:50:12.271] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:51:37.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav burned to death
+[10Jan2025 01:51:37.602] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-242, y:38, z:-194, dim:minecraft:the_nether]
+[10Jan2025 01:51:37.604] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:54:32.772] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:54:32.778] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 01:55:21.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Magma Cube
+[10Jan2025 01:55:21.200] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-156, y:33, z:-214, dim:minecraft:the_nether]
+[10Jan2025 01:55:21.207] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:57:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Magma Cube
+[10Jan2025 01:57:22.752] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-178, y:32, z:-168, dim:minecraft:the_nether]
+[10Jan2025 01:57:22.753] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
