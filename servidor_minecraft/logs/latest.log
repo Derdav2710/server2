@@ -108,3 +108,5 @@ java.lang.NullPointerException: null
 [10Jan2025 02:26:25.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Not even afraid of death]
 [10Jan2025 02:28:39.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was burnt to a crisp whilst fighting Blaze
 [10Jan2025 02:28:39.817] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 02:30:16.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav withered away whilst fighting Wither Skeleton
+[10Jan2025 02:30:16.857] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
