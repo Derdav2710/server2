@@ -815,3 +815,9 @@ java.lang.NullPointerException: null
 [10Jan2025 02:44:32.122] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 02:49:32.173] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [10Jan2025 02:49:32.177] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 02:54:32.297] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:54:32.300] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 02:56:51.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 1000]
+[10Jan2025 02:56:58.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [Fortuitous Militia]
+[10Jan2025 02:59:32.662] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:59:32.665] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
