@@ -778,3 +778,18 @@ java.lang.NullPointerException: null
 [10Jan2025 02:04:33.141] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [10Jan2025 02:06:10.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to -783.5, 55.0, -175.5]
 [10Jan2025 02:06:11.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Those Were the Days]
+[10Jan2025 02:09:32.692] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:09:32.696] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 02:10:07.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to -399.5, 48.0, 336.5]
+[10Jan2025 02:10:08.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava
+[10Jan2025 02:10:08.454] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-391, y:32, z:351, dim:minecraft:the_nether]
+[10Jan2025 02:10:09.350] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 02:10:26.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[10Jan2025 02:10:31.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [A Terrible Fortress]
+[10Jan2025 02:11:04.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[10Jan2025 02:13:09.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Into Fire]
+[10Jan2025 02:13:29.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was shot by Skeleton
+[10Jan2025 02:13:29.505] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-385, y:67, z:397, dim:minecraft:the_nether]
+[10Jan2025 02:13:29.507] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 02:14:32.594] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:14:32.598] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
