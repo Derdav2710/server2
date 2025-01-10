@@ -1859,6 +1859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-01-10 02:45:14 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_magic_impregnation": {
     "criteria": {
       "coded_trigger": "2025-01-01 00:09:48 +0000"
@@ -2178,6 +2184,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2024-12-31 21:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-01-10 02:45:14 +0000"
     },
     "done": true
   },
