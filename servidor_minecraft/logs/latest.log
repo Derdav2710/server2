@@ -88,3 +88,10 @@ java.lang.NullPointerException: null
 [10Jan2025 01:55:21.207] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
 [10Jan2025 01:57:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Magma Cube
 [10Jan2025 01:57:22.753] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:59:45.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava
+[10Jan2025 01:59:45.464] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 02:00:12.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[10Jan2025 02:00:18.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[10Jan2025 02:00:29.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [Easy Opening]
+[10Jan2025 02:06:10.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to -783.5, 55.0, -175.5]
+[10Jan2025 02:06:11.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Those Were the Days]

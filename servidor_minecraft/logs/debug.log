@@ -766,3 +766,15 @@ java.lang.NullPointerException: null
 [10Jan2025 01:57:22.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava to escape Magma Cube
 [10Jan2025 01:57:22.752] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-178, y:32, z:-168, dim:minecraft:the_nether]
 [10Jan2025 01:57:22.753] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 01:59:32.650] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 01:59:32.653] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 01:59:45.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav tried to swim in lava
+[10Jan2025 01:59:45.451] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:-175, y:41, z:-96, dim:minecraft:the_nether]
+[10Jan2025 01:59:45.464] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 02:00:12.928] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[10Jan2025 02:00:18.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[10Jan2025 02:00:29.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has reached the goal [Easy Opening]
+[10Jan2025 02:04:33.135] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[10Jan2025 02:04:33.141] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[10Jan2025 02:06:10.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to -783.5, 55.0, -175.5]
+[10Jan2025 02:06:11.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Those Were the Days]
