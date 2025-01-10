@@ -104,3 +104,7 @@ java.lang.NullPointerException: null
 [10Jan2025 02:13:09.697] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Into Fire]
 [10Jan2025 02:13:29.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was shot by Skeleton
 [10Jan2025 02:13:29.507] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[10Jan2025 02:26:25.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Back to childhood]
+[10Jan2025 02:26:25.997] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav has made the advancement [Not even afraid of death]
+[10Jan2025 02:28:39.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was burnt to a crisp whilst fighting Blaze
+[10Jan2025 02:28:39.817] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
