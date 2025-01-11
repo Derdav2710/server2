@@ -901,3 +901,23 @@ java.lang.NullPointerException: null
 [11Jan2025 06:53:55.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> no
 [11Jan2025 06:54:35.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> este ya no da mas esmeraldas x palos
 [11Jan2025 06:54:55.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[11Jan2025 06:55:05.948] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 06:55:05.951] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Jan2025 06:59:05.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[11Jan2025 07:00:04.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ey mi espada
+[11Jan2025 07:00:05.644] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 07:00:05.654] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[11Jan2025 07:00:56.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ocupamos un zombiiii
+[11Jan2025 07:01:22.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported Derdav to thevip_1]
+[11Jan2025 07:01:37.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
+[11Jan2025 07:03:03.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> cre que solo es por barco
+[11Jan2025 07:03:07.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Zombie
+[11Jan2025 07:03:07.767] [Server thread/DEBUG] [tombstone/]: A new grave of the player thevip_1 was created at position [x:1023, y:64, z:1427, dim:minecraft:overworld]
+[11Jan2025 07:03:07.783] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[11Jan2025 07:03:20.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> la ptm
+[11Jan2025 07:03:21.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[11Jan2025 07:04:47.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was shot by Skeleton
+[11Jan2025 07:04:47.463] [Server thread/DEBUG] [tombstone/]: A new grave of the player Derdav was created at position [x:1039, y:65, z:1377, dim:minecraft:overworld]
+[11Jan2025 07:04:47.466] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[11Jan2025 07:05:05.722] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[11Jan2025 07:05:05.726] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
