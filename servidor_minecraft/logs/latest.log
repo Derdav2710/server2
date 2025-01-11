@@ -220,3 +220,24 @@ java.lang.NullPointerException: null
 [11Jan2025 07:50:49.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> y las pociones??
 [11Jan2025 07:51:59.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> hay que matar magmas tambien
 [11Jan2025 07:52:45.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 has made the advancement [Into Fire]
+[11Jan2025 07:56:08.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav withered away whilst fighting Wither Skeleton
+[11Jan2025 07:56:08.091] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[11Jan2025 07:56:59.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[11Jan2025 07:57:05.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> moooo
+[11Jan2025 07:57:10.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> era al revvess
+[11Jan2025 07:57:24.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> me salvo x lo menos
+[11Jan2025 07:57:32.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> iba pa la lava
+[11Jan2025 07:57:48.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> pero tiene la pocion
+[11Jan2025 07:57:54.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav fell from a high place
+[11Jan2025 07:57:54.241] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[11Jan2025 07:58:13.257] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> di si pero despues q ago
+[11Jan2025 07:58:21.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> sale
+[11Jan2025 07:58:29.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> me voy pa la casa
+[11Jan2025 07:58:38.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[11Jan2025 07:58:48.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> y me voy del server tambien
+[11Jan2025 07:59:00.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> yo queria seguir aya
+[11Jan2025 07:59:02.915] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Derdav lost connection: Disconnected
+[11Jan2025 07:59:02.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav left the game
+[11Jan2025 07:59:05.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> bn yo tmb
+[11Jan2025 07:59:07.807] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: thevip_1 lost connection: Disconnected
+[11Jan2025 07:59:07.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 left the game
