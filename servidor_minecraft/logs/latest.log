@@ -160,3 +160,25 @@ java.lang.NullPointerException: null
 [11Jan2025 07:14:31.531] [Server thread/INFO] [tombstone/]: The player Derdav could not be saved
 [11Jan2025 07:15:05.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Derdav was slain by Iron Golem
 [11Jan2025 07:15:05.668] [Server thread/INFO] [tombstone/]: The player Derdav has successfully been saved
+[11Jan2025 07:15:43.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> un golem mato al aldeno
+[11Jan2025 07:15:54.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ya se estaba transformando
+[11Jan2025 07:15:58.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> aja aga tp
+[11Jan2025 07:16:00.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> oiga ayudeeee!!!
+[11Jan2025 07:16:16.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> estoy en la pt casa
+[11Jan2025 07:16:38.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[11Jan2025 07:18:53.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set the time to 13000]
+[11Jan2025 07:19:10.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> vayase lejosss
+[11Jan2025 07:19:21.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: thevip_1 was slain by Spider
+[11Jan2025 07:19:21.474] [Server thread/INFO] [tombstone/]: The player thevip_1 has successfully been saved
+[11Jan2025 07:19:40.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> ME CAGO Q PTS TIENEN ESTAS ARAÑAS
+[11Jan2025 07:20:05.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <thevip_1> TPE
+[11Jan2025 07:20:21.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Teleported thevip_1 to Derdav]
+[11Jan2025 07:20:40.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Derdav> ahora vayase lejos muuuuuuy lejos
+[11Jan2025 07:21:10.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[11Jan2025 07:21:11.062] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/9595, l='ServerLevel[world]', x=989.16, y=64.00, z=1439.15] died, message: 'Nitwit was slain by Zombie'
+[11Jan2025 07:21:25.358] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/9584, l='ServerLevel[world]', x=1017.60, y=64.00, z=1419.62] died, message: 'Cleric was slain by Zombie'
+[11Jan2025 07:21:28.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[11Jan2025 07:23:02.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[11Jan2025 07:23:16.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
+[11Jan2025 07:23:26.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Creative Mode]
+[11Jan2025 07:23:40.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Derdav: Set own game mode to Survival Mode]
